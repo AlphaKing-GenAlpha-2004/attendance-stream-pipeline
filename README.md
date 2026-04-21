@@ -1,4 +1,4 @@
-# 📊 Attendance Tracking System
+# 📊 Student Attendance Tracking System
 
 ## 👤 Student Details
 - **Name:** Abhinav Singh  
