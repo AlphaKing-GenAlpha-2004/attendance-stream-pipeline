@@ -1,0 +1,2 @@
+CREATE DATABASE attendance_tracking_system;
+USE attendance_tracking_system;

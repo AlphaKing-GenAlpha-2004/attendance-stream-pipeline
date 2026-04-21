@@ -1,0 +1,101 @@
+course_id,course_code,course_name,faculty_id,credits
+513,ME443,Industrial Engineering,34,4
+531,ME412,Plant Engineering,5,2
+559,CSE366,Software Architecture,20,3
+573,EEE150,Electrical Measurements,16,2
+575,ECE458,IoT Hardware Design,22,3
+584,IT371,Business Intelligence,1,4
+618,EEE191,Power Plant Engineering,20,2
+624,ECE120,Communication Systems,4,3
+654,ECE295,Analog Circuits,20,4
+669,IT222,Software Engineering,28,4
+701,IT180,DevOps,42,3
+712,ME211,Heat Transfer,29,3
+735,EEE137,Circuit Theory,6,2
+756,ME281,Tool Engineering,25,4
+759,EEE483,Electrical Machines,43,2
+766,CSE148,Full Stack Development,37,2
+792,CSE333,Object Oriented Programming,15,5
+794,ME436,Mechatronics,5,2
+808,ECE414,Embedded Systems,14,3
+814,CSE196,Parallel Computing,11,5
+834,EEE330,Power Systems,14,4
+858,CSE379,Computer Networks,27,3
+876,IT299,Data Warehousing,39,5
+881,ME324,Finite Element Analysis,35,3
+901,ECE428,Sensor Networks,10,2
+906,CSE195,Advanced Java,5,2
+911,ME113,Automobile Engineering,27,3
+915,IT105,Human Computer Interaction,29,3
+916,EEE289,Energy Management,33,5
+947,ECE112,RF Engineering,10,4
+961,IT384,Big Data Analytics,37,3
+962,CSE137,Recommendation Systems,8,3
+964,ME490,Refrigeration and AC,28,4
+973,CSE278,Computer Vision,42,4
+998,ME198,Welding Technology,11,4
+1004,EEE328,Transmission Systems,7,4
+1005,CSE299,Natural Language Processing,5,2
+1034,CSE482,Cryptography,18,3
+1036,ECE379,Radar Systems,34,3
+1055,IT320,API Development,40,2
+1057,IT417,IT Infrastructure Management,26,3
+1060,CSE488,Internet of Things,11,4
+1073,CSE436,Operating Systems,23,5
+1101,IT309,IT Auditing,37,4
+1102,IT449,Web Technologies,30,3
+1152,IT249,Technology Consulting,9,3
+1164,IT364,Mobile Computing,45,5
+1170,ME369,Production Planning,49,2
+1176,EEE369,Substation Engineering,6,5
+1184,EEE416,Automation Engineering,46,2
+1202,ECE240,Satellite Communication,35,5
+1212,IT142,Data Governance,12,5
+1216,ECE272,VLSI Design,16,2
+1228,ECE424,Microprocessors,46,2
+1253,ECE141,Digital Electronics,2,3
+1292,ECE305,Semiconductor Devices,33,2
+1300,CSE220,Theory of Computation,47,5
+1333,ECE369,Signal Processing,50,5
+1340,ECE265,Control Instrumentation,32,5
+1343,ME122,Dynamics of Machines,37,3
+1352,CSE305,Deep Learning,30,4
+1359,CSE188,Compiler Design,27,2
+1365,ECE180,Microwave Engineering,40,5
+1374,IT493,Agile Methodologies,32,5
+1409,ME331,Hydraulics and Pneumatics,28,3
+1422,CSE310,Digital Forensics,13,3
+1435,ME273,Machine Design,41,4
+1482,EEE322,Industrial Drives,20,3
+1487,CSE410,Machine Learning,7,3
+1496,ECE259,Digital Signal Processing,19,4
+1517,IT279,System Integration,47,2
+1522,ME136,Thermodynamics,36,3
+1524,EEE380,Protection Systems,26,2
+1538,EEE166,Industrial Automation,11,2
+1553,ECE416,Biomedical Electronics,50,2
+1555,IT108,IT Project Management,42,2
+1571,IT151,Digital Transformation,15,5
+1587,ME421,CAD/CAM,7,5
+1598,EEE119,Smart Grid Technology,11,5
+1670,CSE334,Blockchain Technology,27,3
+1675,EEE258,High Voltage Engineering,42,4
+1677,ME237,Robotics,10,4
+1678,CSE156,Software Testing,8,2
+1700,EEE114,Electric Vehicles,47,5
+1754,ME148,Mechanical Vibrations,20,5
+1757,ECE385,Optical Communication,18,2
+1778,IT362,Cloud Architecture,6,3
+1787,EEE306,Electrical Design,19,4
+1830,IT101,Enterprise Systems,15,5
+1834,CSE205,Python Programming,18,3
+1908,ME474,Fluid Mechanics,15,4
+1913,CSE389,Artificial Intelligence,36,4
+1914,ECE257,Wireless Networks,29,2
+1948,CSE255,Data Structures,42,3
+1949,ME253,Composite Materials,33,3
+1951,CSE443,Game Development,25,4
+1960,CSE354,Quantum Computing,41,3
+1974,EEE422,Renewable Energy Systems,48,5
+1984,CSE460,Data Mining,28,4
+1987,IT360,Information Security,5,3

@@ -1,0 +1,2887 @@
+student_id,full_name,course_name,attendance_percentage
+9612,"Nikhil Khanna","Industrial Engineering",0.00
+24925,"Deepak Dubey","Industrial Engineering",0.00
+11647,"Sneha Joshi","Industrial Engineering",0.00
+46785,"Siddharth Choudhary","Industrial Engineering",0.00
+2784,"Aarav Patel","Industrial Engineering",0.00
+38152,"Aditya Das","Industrial Engineering",0.00
+22493,"Ishaan Sinha","Industrial Engineering",0.00
+44143,"Ritika Sharma","Industrial Engineering",0.00
+37898,"Kunal Khanna","Industrial Engineering",0.00
+47170,"Diya Bansal","Industrial Engineering",0.00
+49738,"Nikhil Rao","Industrial Engineering",0.00
+6840,"Harsh Reddy","Industrial Engineering",0.00
+41760,"Kavya Thakur","Industrial Engineering",0.00
+11566,"Pooja Patel","Plant Engineering",0.00
+39735,"Neha Mehta","Plant Engineering",0.00
+39998,"Kunal Reddy","Plant Engineering",0.00
+5351,"Neha Ghosh","Plant Engineering",0.00
+15632,"Vivaan Verma","Plant Engineering",0.00
+38707,"Sai Gupta","Plant Engineering",0.00
+3082,"Vivaan Mehta","Plant Engineering",0.00
+40840,"Ritesh Choudhary","Plant Engineering",0.00
+24344,"Pooja Gupta","Plant Engineering",0.00
+15716,"Ishaan Iyer","Plant Engineering",0.00
+49312,"Ritika Kapoor","Plant Engineering",0.00
+36728,"Ritika Das","Plant Engineering",0.00
+20491,"Neha Khanna","Plant Engineering",0.00
+6886,"Siddharth Thakur","Plant Engineering",0.00
+43399,"Ananya Joshi","Plant Engineering",0.00
+6325,"Kunal Gupta","Plant Engineering",0.00
+38771,"Priya Kapoor","Plant Engineering",0.00
+5608,"Pooja Joshi","Plant Engineering",0.00
+38651,"Vivaan Menon","Plant Engineering",0.00
+40137,"Diya Joshi","Plant Engineering",0.00
+49775,"Krishna Mehta","Plant Engineering",0.00
+24345,"Neha Kapoor","Plant Engineering",0.00
+7964,"Pooja Kapoor","Software Architecture",0.00
+43446,"Yash Jain","Software Architecture",0.00
+41157,"Dev Jain","Software Architecture",0.00
+45213,"Priya Iyer","Software Architecture",0.00
+46693,"Pooja Reddy","Software Architecture",0.00
+28099,"Sneha Ghosh","Software Architecture",0.00
+40599,"Mohit Sharma","Software Architecture",0.00
+26107,"Ritika Patel","Software Architecture",0.00
+14266,"Ananya Iyer","Software Architecture",0.00
+45597,"Kavya Ghosh","Software Architecture",0.00
+26290,"Mohit Khanna","Software Architecture",0.00
+29655,"Kunal Menon","Software Architecture",0.00
+12800,"Kavya Dubey","Software Architecture",0.00
+22617,"Siddharth Ghosh","Software Architecture",0.00
+13530,"Aarav Das","Software Architecture",0.00
+47038,"Manav Sinha","Software Architecture",0.00
+38955,"Sneha Gupta","Software Architecture",0.00
+39815,"Vivaan Jain","Software Architecture",0.00
+9273,"Sneha Jain","Software Architecture",0.00
+13856,"Yash Ghosh","Software Architecture",0.00
+22925,"Sai Menon","Software Architecture",0.00
+37214,"Siddharth Bansal","Software Architecture",0.00
+13819,"Ishaan Kapoor","Software Architecture",0.00
+41693,"Aman Das","Software Architecture",0.00
+46589,"Arjun Bansal","Software Architecture",0.00
+9057,"Rohan Iyer","Software Architecture",0.00
+40303,"Vivaan Ghosh","Software Architecture",0.00
+14774,"Ananya Reddy","Software Architecture",0.00
+20740,"Ritika Bansal","Software Architecture",0.00
+23251,"Tanmay Mehta","Software Architecture",0.00
+18573,"Nikhil Sinha","Software Architecture",0.00
+27582,"Aarav Khanna","Software Architecture",0.00
+19027,"Aditi Patel","Software Architecture",0.00
+38999,"Ritesh Jain","Software Architecture",0.00
+49739,"Diya Menon","Software Architecture",0.00
+6842,"Ananya Jain","Software Architecture",0.00
+5983,"Tanmay Reddy","Electrical Measurements",0.00
+41517,"Meera Ghosh","Electrical Measurements",0.00
+35463,"Varun Kapoor","Electrical Measurements",0.00
+49847,"Aarav Agarwal","Electrical Measurements",0.00
+9303,"Priya Iyer","Electrical Measurements",0.00
+36410,"Arjun Rao","Electrical Measurements",0.00
+35282,"Diya Sharma","Electrical Measurements",0.00
+827,"Deepak Dubey","Electrical Measurements",0.00
+2971,"Pooja Pandey","Electrical Measurements",0.00
+19389,"Meera Joshi","Electrical Measurements",0.00
+46062,"Tanmay Verma","Electrical Measurements",0.00
+31729,"Rahul Kapoor","Electrical Measurements",0.00
+40791,"Kunal Thakur","Electrical Measurements",0.00
+48686,"Dev Das","Electrical Measurements",0.00
+20049,"Deepak Sharma","Electrical Measurements",0.00
+26791,"Aarav Gupta","Electrical Measurements",0.00
+40553,"Meera Patel","Electrical Measurements",0.00
+3390,"Krishna Patel","Electrical Measurements",0.00
+18611,"Kunal Sinha","Electrical Measurements",0.00
+8103,"Vivaan Nair","Electrical Measurements",0.00
+40254,"Ritesh Gupta","Electrical Measurements",0.00
+31219,"Manav Kapoor","Electrical Measurements",0.00
+19319,"Nikhil Agarwal","Electrical Measurements",0.00
+41509,"Manav Joshi","Electrical Measurements",0.00
+38295,"Arjun Sinha","Electrical Measurements",0.00
+23297,"Yash Menon","Electrical Measurements",0.00
+29264,"Rahul Menon","Electrical Measurements",0.00
+17741,"Arjun Thakur","Electrical Measurements",0.00
+12060,"Kavya Gupta","Electrical Measurements",0.00
+32768,"Ananya Gupta","Electrical Measurements",0.00
+5885,"Pooja Jain","Electrical Measurements",0.00
+14532,"Yash Ghosh","Electrical Measurements",0.00
+27575,"Om Joshi","Electrical Measurements",0.00
+36491,"Arjun Das","Electrical Measurements",0.00
+23162,"Ananya Reddy","Electrical Measurements",0.00
+45171,"Arjun Jain","Electrical Measurements",0.00
+1542,"Aarav Khanna","Electrical Measurements",0.00
+7881,"Deepak Reddy","Electrical Measurements",0.00
+11029,"Dev Jain","IoT Hardware Design",0.00
+28358,"Ananya Kapoor","IoT Hardware Design",0.00
+33579,"Ritika Choudhary","IoT Hardware Design",0.00
+41970,"Varun Menon","IoT Hardware Design",0.00
+43894,"Priya Sharma","IoT Hardware Design",0.00
+48921,"Sai Sharma","IoT Hardware Design",0.00
+27704,"Deepak Dubey","IoT Hardware Design",0.00
+46622,"Krishna Thakur","IoT Hardware Design",0.00
+27022,"Siddharth Dubey","IoT Hardware Design",0.00
+31260,"Sai Kapoor","IoT Hardware Design",0.00
+40266,"Sai Rao","IoT Hardware Design",0.00
+37027,"Sai Pandey","IoT Hardware Design",0.00
+44461,"Aman Nair","IoT Hardware Design",0.00
+4683,"Arjun Pandey","IoT Hardware Design",0.00
+38996,"Rohan Rao","IoT Hardware Design",0.00
+35566,"Sneha Verma","IoT Hardware Design",0.00
+31501,"Ritika Verma","IoT Hardware Design",0.00
+42253,"Ishaan Mehta","IoT Hardware Design",0.00
+19047,"Kunal Khanna","IoT Hardware Design",0.00
+45245,"Rohan Sinha","IoT Hardware Design",0.00
+4802,"Tanmay Khanna","IoT Hardware Design",0.00
+44491,"Ishaan Choudhary","IoT Hardware Design",0.00
+45619,"Om Verma","IoT Hardware Design",0.00
+43682,"Manav Sinha","IoT Hardware Design",0.00
+11139,"Aditya Sinha","Business Intelligence",0.00
+40034,"Priya Dubey","Business Intelligence",0.00
+42522,"Harsh Joshi","Business Intelligence",0.00
+3450,"Yash Rao","Business Intelligence",0.00
+48594,"Ishaan Pandey","Business Intelligence",0.00
+22186,"Krishna Ghosh","Business Intelligence",0.00
+18839,"Kunal Menon","Business Intelligence",0.00
+24080,"Ishaan Rao","Business Intelligence",0.00
+40945,"Pooja Sharma","Business Intelligence",0.00
+15649,"Pooja Dubey","Business Intelligence",0.00
+26178,"Ritika Dubey","Business Intelligence",0.00
+45572,"Vivaan Thakur","Business Intelligence",0.00
+5262,"Yash Ghosh","Business Intelligence",0.00
+20214,"Tanmay Choudhary","Business Intelligence",0.00
+32904,"Nikhil Sharma","Business Intelligence",0.00
+47706,"Krishna Ghosh","Business Intelligence",0.00
+3762,"Ishaan Menon","Business Intelligence",0.00
+20438,"Harsh Menon","Business Intelligence",0.00
+1548,"Vivaan Thakur","Business Intelligence",0.00
+31458,"Pooja Agarwal","Business Intelligence",0.00
+7021,"Priya Thakur","Business Intelligence",0.00
+48290,"Rahul Agarwal","Business Intelligence",0.00
+5657,"Yash Jain","Business Intelligence",0.00
+34585,"Aditi Verma","Power Plant Engineering",0.00
+40241,"Ananya Rao","Power Plant Engineering",0.00
+1915,"Harsh Khanna","Power Plant Engineering",0.00
+40932,"Om Sharma","Power Plant Engineering",0.00
+30936,"Kavya Reddy","Power Plant Engineering",0.00
+8170,"Rohan Menon","Power Plant Engineering",0.00
+21356,"Dev Menon","Power Plant Engineering",0.00
+24134,"Harsh Thakur","Power Plant Engineering",0.00
+809,"Arjun Patel","Power Plant Engineering",0.00
+34153,"Diya Iyer","Power Plant Engineering",0.00
+40578,"Kavya Khanna","Power Plant Engineering",0.00
+11250,"Arjun Joshi","Power Plant Engineering",0.00
+39759,"Aman Sinha","Power Plant Engineering",0.00
+174,"Priya Thakur","Power Plant Engineering",0.00
+25278,"Dev Jain","Power Plant Engineering",0.00
+4959,"Kunal Ghosh","Power Plant Engineering",0.00
+40658,"Sneha Pandey","Power Plant Engineering",0.00
+48121,"Sai Joshi","Power Plant Engineering",0.00
+20073,"Mohit Gupta","Power Plant Engineering",0.00
+10577,"Ishaan Thakur","Power Plant Engineering",0.00
+35670,"Krishna Verma","Power Plant Engineering",0.00
+16093,"Arjun Bansal","Power Plant Engineering",0.00
+36951,"Arjun Verma","Power Plant Engineering",0.00
+16719,"Priya Sharma","Power Plant Engineering",0.00
+31146,"Aditi Rao","Communication Systems",0.00
+14887,"Sai Joshi","Communication Systems",0.00
+10653,"Nikhil Bansal","Communication Systems",0.00
+30186,"Arjun Choudhary","Communication Systems",0.00
+24119,"Aarav Pandey","Communication Systems",0.00
+2730,"Ritesh Agarwal","Communication Systems",0.00
+41308,"Meera Verma","Communication Systems",0.00
+30556,"Ritika Dubey","Communication Systems",0.00
+25016,"Varun Sharma","Communication Systems",0.00
+37457,"Krishna Pandey","Communication Systems",0.00
+11242,"Aarav Khanna","Communication Systems",0.00
+21318,"Om Gupta","Communication Systems",0.00
+4159,"Sneha Gupta","Communication Systems",0.00
+20697,"Tanmay Agarwal","Communication Systems",0.00
+45708,"Aditya Gupta","Communication Systems",0.00
+6878,"Tanmay Bansal","Communication Systems",0.00
+6937,"Meera Mehta","Communication Systems",0.00
+35852,"Pooja Khanna","Analog Circuits",0.00
+24651,"Rohan Sinha","Analog Circuits",0.00
+18165,"Nikhil Agarwal","Analog Circuits",0.00
+49847,"Aarav Agarwal","Analog Circuits",0.00
+3679,"Deepak Nair","Analog Circuits",0.00
+15597,"Arjun Gupta","Analog Circuits",0.00
+40943,"Ishaan Thakur","Analog Circuits",0.00
+30548,"Vivaan Kapoor","Analog Circuits",0.00
+12829,"Manav Kapoor","Analog Circuits",0.00
+19540,"Sai Pandey","Analog Circuits",0.00
+13733,"Arjun Jain","Analog Circuits",0.00
+6281,"Siddharth Dubey","Analog Circuits",0.00
+38382,"Neha Choudhary","Analog Circuits",0.00
+10641,"Rohan Patel","Analog Circuits",0.00
+27338,"Meera Joshi","Analog Circuits",0.00
+5930,"Aman Rao","Analog Circuits",0.00
+43770,"Ishaan Iyer","Analog Circuits",0.00
+892,"Ishaan Iyer","Analog Circuits",0.00
+26870,"Mohit Sinha","Analog Circuits",0.00
+28070,"Rohan Dubey","Analog Circuits",0.00
+42479,"Mohit Menon","Analog Circuits",0.00
+2522,"Harsh Joshi","Analog Circuits",0.00
+15309,"Tanmay Jain","Software Engineering",0.00
+8517,"Arjun Agarwal","Software Engineering",0.00
+27285,"Nikhil Mehta","Software Engineering",0.00
+13421,"Rahul Nair","Software Engineering",0.00
+36411,"Vivaan Bansal","Software Engineering",0.00
+1497,"Nikhil Menon","Software Engineering",0.00
+24152,"Aditya Gupta","Software Engineering",0.00
+46154,"Rahul Joshi","Software Engineering",0.00
+31550,"Kavya Sinha","Software Engineering",0.00
+9468,"Harsh Khanna","Software Engineering",0.00
+12115,"Varun Das","Software Engineering",0.00
+25970,"Kavya Sharma","Software Engineering",0.00
+1195,"Tanmay Sharma","Software Engineering",0.00
+30851,"Ritika Khanna","Software Engineering",0.00
+15790,"Pooja Khanna","Software Engineering",0.00
+22925,"Sai Menon","Software Engineering",0.00
+38128,"Tanmay Kapoor","Software Engineering",0.00
+18570,"Manav Agarwal","Software Engineering",0.00
+9077,"Arjun Rao","Software Engineering",0.00
+28239,"Sai Jain","Software Engineering",0.00
+46293,"Mohit Joshi","Software Engineering",0.00
+45967,"Neha Dubey","Software Engineering",0.00
+35814,"Ritika Bansal","Software Engineering",0.00
+28391,"Neha Bansal","Software Engineering",0.00
+30976,"Rahul Iyer","Software Engineering",0.00
+29247,"Siddharth Patel",DevOps,0.00
+41827,"Harsh Verma",DevOps,0.00
+41640,"Om Iyer",DevOps,0.00
+11448,"Om Thakur",DevOps,0.00
+15902,"Aditi Choudhary",DevOps,0.00
+19818,"Manav Jain",DevOps,0.00
+42040,"Tanmay Kapoor",DevOps,0.00
+40808,"Sai Patel",DevOps,0.00
+13598,"Tanmay Dubey",DevOps,0.00
+42064,"Nikhil Patel",DevOps,0.00
+36186,"Kunal Reddy",DevOps,0.00
+14646,"Mohit Das",DevOps,0.00
+9035,"Tanmay Menon",DevOps,0.00
+26335,"Varun Bansal",DevOps,0.00
+36379,"Deepak Bansal",DevOps,0.00
+1753,"Dev Bansal",DevOps,0.00
+8609,"Harsh Kapoor",DevOps,0.00
+4701,"Ritika Agarwal",DevOps,0.00
+7342,"Aman Menon",DevOps,0.00
+42568,"Neha Bansal",DevOps,0.00
+43573,"Rohan Ghosh",DevOps,0.00
+39817,"Kunal Choudhary",DevOps,0.00
+47717,"Rohan Khanna","Heat Transfer",0.00
+5017,"Ritesh Kapoor","Heat Transfer",0.00
+47830,"Nikhil Reddy","Heat Transfer",0.00
+22874,"Vivaan Reddy","Heat Transfer",0.00
+4292,"Ishaan Verma","Heat Transfer",0.00
+37721,"Harsh Verma","Heat Transfer",0.00
+23772,"Aditya Verma","Heat Transfer",0.00
+49703,"Krishna Das","Heat Transfer",0.00
+2458,"Meera Joshi","Heat Transfer",0.00
+43081,"Nikhil Iyer","Heat Transfer",0.00
+34798,"Aman Pandey","Heat Transfer",0.00
+45419,"Deepak Iyer","Heat Transfer",0.00
+2116,"Yash Menon","Heat Transfer",0.00
+41883,"Mohit Menon","Heat Transfer",0.00
+36504,"Aman Agarwal","Heat Transfer",0.00
+27435,"Aarav Nair","Heat Transfer",0.00
+16162,"Rohan Joshi","Heat Transfer",0.00
+11495,"Sai Nair","Heat Transfer",0.00
+45814,"Pooja Reddy","Heat Transfer",0.00
+30598,"Ritika Iyer","Heat Transfer",0.00
+24016,"Nikhil Pandey","Heat Transfer",0.00
+34537,"Pooja Choudhary","Heat Transfer",0.00
+35223,"Pooja Sharma","Heat Transfer",0.00
+16064,"Arjun Khanna","Heat Transfer",0.00
+1299,"Neha Nair","Circuit Theory",0.00
+24372,"Meera Choudhary","Circuit Theory",0.00
+20712,"Rahul Thakur","Circuit Theory",0.00
+23659,"Aman Nair","Circuit Theory",0.00
+15639,"Om Gupta","Circuit Theory",0.00
+17159,"Rohan Patel","Circuit Theory",0.00
+35549,"Priya Das","Circuit Theory",0.00
+34583,"Harsh Sinha","Circuit Theory",0.00
+34735,"Vivaan Sharma","Circuit Theory",0.00
+25062,"Ishaan Menon","Circuit Theory",0.00
+4979,"Aman Nair","Circuit Theory",0.00
+48484,"Ritesh Agarwal","Circuit Theory",0.00
+16160,"Aditi Iyer","Circuit Theory",0.00
+36291,"Neha Gupta","Circuit Theory",0.00
+17038,"Yash Verma","Circuit Theory",0.00
+46403,"Vivaan Khanna","Circuit Theory",0.00
+9945,"Varun Khanna","Circuit Theory",0.00
+3365,"Dev Nair","Circuit Theory",0.00
+26134,"Pooja Sinha","Circuit Theory",0.00
+24401,"Aman Gupta","Circuit Theory",0.00
+7990,"Yash Sinha","Circuit Theory",0.00
+5372,"Ananya Bansal","Circuit Theory",0.00
+49288,"Sai Ghosh","Circuit Theory",0.00
+5929,"Ananya Ghosh","Circuit Theory",0.00
+26750,"Sneha Sinha","Circuit Theory",0.00
+13249,"Meera Mehta","Tool Engineering",0.00
+2880,"Om Mehta","Tool Engineering",0.00
+35993,"Aarav Gupta","Tool Engineering",0.00
+8609,"Harsh Kapoor","Tool Engineering",0.00
+14339,"Ritika Pandey","Tool Engineering",0.00
+3041,"Rahul Ghosh","Tool Engineering",0.00
+3862,"Aditya Ghosh","Tool Engineering",0.00
+32557,"Rohan Reddy","Tool Engineering",0.00
+27774,"Rohan Gupta","Tool Engineering",0.00
+44294,"Tanmay Rao","Tool Engineering",0.00
+14772,"Aman Agarwal","Tool Engineering",0.00
+28995,"Pooja Menon","Tool Engineering",0.00
+36733,"Diya Agarwal","Tool Engineering",0.00
+34705,"Vivaan Bansal","Tool Engineering",0.00
+17935,"Om Das","Tool Engineering",0.00
+1931,"Diya Choudhary","Tool Engineering",0.00
+26234,"Deepak Iyer","Tool Engineering",0.00
+19390,"Kunal Mehta","Tool Engineering",0.00
+46569,"Aman Thakur","Tool Engineering",0.00
+883,"Siddharth Thakur","Tool Engineering",0.00
+31282,"Dev Sharma","Tool Engineering",0.00
+25501,"Pooja Das","Tool Engineering",0.00
+39428,"Sai Agarwal","Tool Engineering",0.00
+25079,"Nikhil Dubey","Tool Engineering",0.00
+13399,"Varun Dubey","Tool Engineering",0.00
+4762,"Aarav Thakur","Tool Engineering",0.00
+962,"Manav Verma","Tool Engineering",0.00
+21255,"Mohit Dubey","Electrical Machines",0.00
+14675,"Arjun Ghosh","Electrical Machines",0.00
+11869,"Kavya Dubey","Electrical Machines",0.00
+46953,"Harsh Thakur","Electrical Machines",0.00
+49709,"Kunal Choudhary","Electrical Machines",0.00
+21298,"Ritesh Khanna","Electrical Machines",0.00
+35478,"Aman Patel","Electrical Machines",0.00
+9928,"Sneha Das","Electrical Machines",0.00
+16904,"Ishaan Dubey","Electrical Machines",0.00
+23122,"Sai Reddy","Electrical Machines",0.00
+21718,"Aman Patel","Electrical Machines",0.00
+42327,"Sneha Joshi","Electrical Machines",0.00
+34486,"Ananya Iyer","Electrical Machines",0.00
+3779,"Rohan Thakur","Electrical Machines",0.00
+32031,"Rahul Choudhary","Electrical Machines",0.00
+2920,"Mohit Iyer","Electrical Machines",0.00
+29435,"Ananya Rao","Electrical Machines",0.00
+31984,"Ananya Agarwal","Electrical Machines",0.00
+44307,"Aditya Verma","Electrical Machines",0.00
+18477,"Aditi Iyer","Electrical Machines",0.00
+37633,"Sneha Ghosh","Full Stack Development",0.00
+2210,"Om Ghosh","Full Stack Development",0.00
+45483,"Siddharth Das","Full Stack Development",0.00
+2421,"Mohit Nair","Full Stack Development",0.00
+12377,"Mohit Reddy","Full Stack Development",0.00
+10860,"Mohit Jain","Full Stack Development",0.00
+10413,"Yash Iyer","Full Stack Development",0.00
+29059,"Sai Agarwal","Full Stack Development",0.00
+36350,"Sneha Pandey","Full Stack Development",0.00
+5284,"Priya Choudhary","Full Stack Development",0.00
+8946,"Priya Thakur","Full Stack Development",0.00
+15630,"Siddharth Pandey","Full Stack Development",0.00
+16328,"Pooja Menon","Full Stack Development",0.00
+3326,"Aarav Mehta","Full Stack Development",0.00
+20195,"Diya Joshi","Full Stack Development",0.00
+19317,"Harsh Bansal","Full Stack Development",0.00
+12841,"Rahul Sinha","Full Stack Development",0.00
+25797,"Dev Iyer","Full Stack Development",0.00
+32678,"Manav Iyer","Full Stack Development",0.00
+41237,"Kavya Bansal","Full Stack Development",0.00
+40241,"Ananya Rao","Full Stack Development",0.00
+247,"Yash Thakur","Object Oriented Programming",0.00
+35665,"Kunal Joshi","Object Oriented Programming",0.00
+14326,"Sneha Ghosh","Object Oriented Programming",0.00
+48246,"Sai Jain","Object Oriented Programming",0.00
+2539,"Rohan Agarwal","Object Oriented Programming",0.00
+13973,"Nikhil Kapoor","Object Oriented Programming",0.00
+31475,"Ritesh Khanna","Object Oriented Programming",0.00
+42989,"Kavya Reddy","Object Oriented Programming",0.00
+21288,"Priya Das","Object Oriented Programming",0.00
+27916,"Nikhil Menon","Object Oriented Programming",0.00
+48536,"Siddharth Patel","Object Oriented Programming",0.00
+17263,"Ritika Joshi","Object Oriented Programming",0.00
+24342,"Siddharth Nair","Object Oriented Programming",0.00
+36748,"Rohan Pandey","Object Oriented Programming",0.00
+44353,"Manav Rao","Object Oriented Programming",0.00
+255,"Kavya Joshi","Object Oriented Programming",0.00
+11066,"Aditi Khanna","Object Oriented Programming",0.00
+26980,"Aditi Verma","Object Oriented Programming",0.00
+27147,"Meera Rao","Object Oriented Programming",0.00
+45182,"Ananya Bansal","Object Oriented Programming",0.00
+18861,"Ritesh Ghosh","Object Oriented Programming",0.00
+3540,"Ritika Verma","Object Oriented Programming",0.00
+41651,"Manav Patel","Object Oriented Programming",0.00
+13580,"Arjun Joshi","Object Oriented Programming",0.00
+30946,"Yash Pandey","Object Oriented Programming",0.00
+13399,"Varun Dubey","Object Oriented Programming",0.00
+41157,"Dev Jain",Mechatronics,0.00
+44533,"Neha Nair",Mechatronics,0.00
+19620,"Kavya Menon",Mechatronics,0.00
+45443,"Rahul Choudhary",Mechatronics,0.00
+33023,"Rahul Pandey",Mechatronics,0.00
+5918,"Rohan Verma",Mechatronics,0.00
+13887,"Arjun Patel",Mechatronics,0.00
+17196,"Rohan Bansal",Mechatronics,0.00
+34381,"Kunal Verma",Mechatronics,0.00
+48234,"Deepak Menon",Mechatronics,0.00
+664,"Tanmay Reddy",Mechatronics,0.00
+17563,"Nikhil Patel",Mechatronics,0.00
+12914,"Pooja Ghosh",Mechatronics,0.00
+1195,"Tanmay Sharma",Mechatronics,0.00
+31531,"Ritesh Agarwal",Mechatronics,0.00
+18225,"Aarav Agarwal",Mechatronics,0.00
+47306,"Arjun Choudhary",Mechatronics,0.00
+18990,"Rahul Joshi",Mechatronics,0.00
+35450,"Mohit Ghosh",Mechatronics,0.00
+7650,"Meera Agarwal",Mechatronics,0.00
+45838,"Ishaan Reddy","Embedded Systems",0.00
+1024,"Aditi Nair","Embedded Systems",0.00
+4508,"Diya Patel","Embedded Systems",0.00
+40962,"Pooja Rao","Embedded Systems",0.00
+44158,"Aditi Reddy","Embedded Systems",0.00
+33949,"Nikhil Thakur","Embedded Systems",0.00
+14275,"Harsh Rao","Embedded Systems",0.00
+27045,"Pooja Jain","Embedded Systems",0.00
+22925,"Sai Menon","Embedded Systems",0.00
+14893,"Neha Iyer","Embedded Systems",0.00
+38838,"Kunal Thakur","Embedded Systems",0.00
+35489,"Neha Reddy","Embedded Systems",0.00
+20223,"Kunal Choudhary","Embedded Systems",0.00
+19540,"Sai Pandey","Embedded Systems",0.00
+7959,"Kavya Kapoor","Embedded Systems",0.00
+35849,"Meera Thakur","Embedded Systems",0.00
+14586,"Krishna Nair","Parallel Computing",0.00
+22069,"Harsh Menon","Parallel Computing",0.00
+45948,"Kunal Iyer","Parallel Computing",0.00
+9666,"Pooja Iyer","Parallel Computing",0.00
+5948,"Vivaan Mehta","Parallel Computing",0.00
+1698,"Aman Khanna","Parallel Computing",0.00
+16881,"Vivaan Gupta","Parallel Computing",0.00
+40140,"Ishaan Jain","Parallel Computing",0.00
+27634,"Manav Reddy","Parallel Computing",0.00
+40783,"Ishaan Nair","Parallel Computing",0.00
+1765,"Aditya Khanna","Parallel Computing",0.00
+31760,"Deepak Joshi","Parallel Computing",0.00
+35722,"Pooja Iyer","Parallel Computing",0.00
+12122,"Ritesh Choudhary","Parallel Computing",0.00
+9986,"Ritika Sinha","Parallel Computing",0.00
+11931,"Dev Sharma","Parallel Computing",0.00
+48189,"Dev Joshi","Parallel Computing",0.00
+11130,"Vivaan Jain","Parallel Computing",0.00
+34796,"Nikhil Joshi","Parallel Computing",0.00
+26664,"Om Dubey","Parallel Computing",0.00
+25837,"Kunal Mehta","Parallel Computing",0.00
+17231,"Pooja Mehta","Parallel Computing",0.00
+39070,"Aman Dubey","Parallel Computing",0.00
+43007,"Aditi Khanna","Power Systems",0.00
+25728,"Rohan Khanna","Power Systems",0.00
+349,"Arjun Das","Power Systems",0.00
+33287,"Om Jain","Power Systems",0.00
+4272,"Tanmay Kapoor","Power Systems",0.00
+43716,"Yash Verma","Power Systems",0.00
+2566,"Arjun Reddy","Power Systems",0.00
+46365,"Nikhil Gupta","Power Systems",0.00
+3906,"Tanmay Nair","Power Systems",0.00
+16963,"Om Thakur","Power Systems",0.00
+5797,"Manav Pandey","Power Systems",0.00
+1495,"Varun Ghosh","Power Systems",0.00
+29149,"Varun Kapoor","Power Systems",0.00
+21044,"Deepak Patel","Power Systems",0.00
+16280,"Aditya Pandey","Power Systems",0.00
+21236,"Kunal Sinha","Power Systems",0.00
+10852,"Yash Joshi","Power Systems",0.00
+3535,"Meera Kapoor","Power Systems",0.00
+23836,"Mohit Mehta","Power Systems",0.00
+14779,"Ishaan Gupta","Power Systems",0.00
+37613,"Vivaan Choudhary","Power Systems",0.00
+6957,"Yash Verma","Power Systems",0.00
+42955,"Manav Menon","Power Systems",0.00
+16646,"Aman Menon","Power Systems",0.00
+49045,"Arjun Gupta","Power Systems",0.00
+43585,"Rahul Rao","Power Systems",0.00
+16335,"Aman Patel","Power Systems",0.00
+18528,"Ritesh Iyer","Computer Networks",0.00
+32084,"Aman Ghosh","Computer Networks",0.00
+20292,"Ritika Mehta","Computer Networks",0.00
+10546,"Ritesh Ghosh","Computer Networks",0.00
+431,"Vivaan Sharma","Computer Networks",0.00
+25574,"Rohan Patel","Computer Networks",0.00
+33139,"Ishaan Mehta","Computer Networks",0.00
+48663,"Priya Iyer","Computer Networks",0.00
+38943,"Ritesh Rao","Computer Networks",0.00
+22440,"Tanmay Choudhary","Computer Networks",0.00
+25363,"Diya Kapoor","Computer Networks",0.00
+29166,"Arjun Agarwal","Computer Networks",0.00
+2525,"Om Nair","Computer Networks",0.00
+24992,"Harsh Choudhary","Computer Networks",0.00
+7512,"Om Choudhary","Computer Networks",0.00
+46927,"Ritesh Iyer","Computer Networks",0.00
+7006,"Aditya Das","Computer Networks",0.00
+48280,"Nikhil Menon","Computer Networks",0.00
+44265,"Dev Sharma","Computer Networks",0.00
+29630,"Krishna Iyer","Computer Networks",0.00
+18870,"Dev Verma","Computer Networks",0.00
+38244,"Yash Thakur","Computer Networks",0.00
+516,"Tanmay Agarwal","Computer Networks",0.00
+16707,"Deepak Reddy","Computer Networks",0.00
+15721,"Rohan Nair","Computer Networks",0.00
+19168,"Harsh Pandey","Computer Networks",0.00
+43891,"Dev Nair","Computer Networks",0.00
+26631,"Pooja Agarwal","Computer Networks",0.00
+29645,"Kavya Sinha","Computer Networks",0.00
+29611,"Kavya Thakur","Computer Networks",0.00
+43236,"Vivaan Thakur","Computer Networks",0.00
+42642,"Varun Menon","Computer Networks",0.00
+4838,"Aman Sinha","Computer Networks",0.00
+29411,"Sneha Nair","Computer Networks",0.00
+24667,"Priya Agarwal","Computer Networks",0.00
+46785,"Siddharth Choudhary","Computer Networks",0.00
+15395,"Aarav Kapoor","Data Warehousing",0.00
+8358,"Harsh Choudhary","Data Warehousing",0.00
+25117,"Rohan Sharma","Data Warehousing",0.00
+17233,"Manav Sharma","Data Warehousing",0.00
+9862,"Rahul Verma","Data Warehousing",0.00
+13039,"Arjun Das","Data Warehousing",0.00
+25314,"Ananya Rao","Data Warehousing",0.00
+33139,"Ishaan Mehta","Data Warehousing",0.00
+11795,"Yash Sharma","Data Warehousing",0.00
+42236,"Nikhil Gupta","Data Warehousing",0.00
+4578,"Kavya Joshi","Data Warehousing",0.00
+43145,"Ritika Patel","Data Warehousing",0.00
+9899,"Ritesh Patel","Data Warehousing",0.00
+38127,"Deepak Dubey","Data Warehousing",0.00
+33358,"Ritesh Bansal","Data Warehousing",0.00
+23632,"Deepak Verma","Data Warehousing",0.00
+24462,"Dev Thakur","Data Warehousing",0.00
+9374,"Tanmay Mehta","Data Warehousing",0.00
+28500,"Kunal Nair","Data Warehousing",0.00
+10462,"Aman Mehta","Data Warehousing",0.00
+3786,"Aman Sharma","Data Warehousing",0.00
+12091,"Rahul Khanna","Data Warehousing",0.00
+10563,"Varun Patel","Data Warehousing",0.00
+33996,"Arjun Bansal","Data Warehousing",0.00
+5436,"Priya Thakur","Data Warehousing",0.00
+10339,"Vivaan Kapoor","Data Warehousing",0.00
+34042,"Aman Rao","Finite Element Analysis",0.00
+32433,"Rahul Reddy","Finite Element Analysis",0.00
+36238,"Rahul Kapoor","Finite Element Analysis",0.00
+40260,"Mohit Ghosh","Finite Element Analysis",0.00
+44904,"Kavya Menon","Finite Element Analysis",0.00
+1548,"Vivaan Thakur","Finite Element Analysis",0.00
+48179,"Nikhil Ghosh","Finite Element Analysis",0.00
+39445,"Aarav Gupta","Finite Element Analysis",0.00
+38244,"Yash Thakur","Finite Element Analysis",0.00
+35388,"Vivaan Nair","Finite Element Analysis",0.00
+14296,"Arjun Khanna","Finite Element Analysis",0.00
+33565,"Neha Khanna","Finite Element Analysis",0.00
+10227,"Siddharth Pandey","Finite Element Analysis",0.00
+37872,"Dev Gupta","Finite Element Analysis",0.00
+22868,"Vivaan Sharma","Finite Element Analysis",0.00
+10393,"Aarav Sharma","Finite Element Analysis",0.00
+7811,"Deepak Mehta","Finite Element Analysis",0.00
+40631,"Kunal Sharma","Finite Element Analysis",0.00
+13973,"Nikhil Kapoor","Finite Element Analysis",0.00
+35988,"Rohan Agarwal","Finite Element Analysis",0.00
+22910,"Krishna Ghosh","Finite Element Analysis",0.00
+4560,"Tanmay Dubey","Finite Element Analysis",0.00
+49295,"Ananya Menon","Finite Element Analysis",0.00
+40233,"Deepak Iyer","Finite Element Analysis",0.00
+8629,"Diya Pandey","Finite Element Analysis",0.00
+13135,"Tanmay Rao","Finite Element Analysis",0.00
+6681,"Kavya Bansal","Finite Element Analysis",0.00
+47188,"Pooja Bansal","Sensor Networks",0.00
+9474,"Meera Menon","Sensor Networks",0.00
+5784,"Aman Das","Sensor Networks",0.00
+27981,"Tanmay Sharma","Sensor Networks",0.00
+21612,"Aarav Jain","Sensor Networks",0.00
+18448,"Rohan Agarwal","Sensor Networks",0.00
+15239,"Ananya Thakur","Sensor Networks",0.00
+33668,"Om Agarwal","Sensor Networks",0.00
+28649,"Rohan Thakur","Sensor Networks",0.00
+15783,"Ishaan Nair","Sensor Networks",0.00
+7299,"Rohan Gupta","Sensor Networks",0.00
+7137,"Rohan Kapoor","Sensor Networks",0.00
+13938,"Om Rao","Sensor Networks",0.00
+5662,"Rohan Mehta","Sensor Networks",0.00
+5574,"Arjun Kapoor","Sensor Networks",0.00
+34002,"Mohit Patel","Sensor Networks",0.00
+10124,"Ritika Jain","Sensor Networks",0.00
+28509,"Varun Iyer","Sensor Networks",0.00
+19319,"Nikhil Agarwal","Advanced Java",0.00
+12381,"Nikhil Dubey","Advanced Java",0.00
+40504,"Ananya Bansal","Advanced Java",0.00
+30387,"Pooja Joshi","Advanced Java",0.00
+24593,"Pooja Rao","Advanced Java",0.00
+10557,"Sai Mehta","Advanced Java",0.00
+31955,"Meera Mehta","Advanced Java",0.00
+22224,"Neha Patel","Advanced Java",0.00
+27097,"Neha Verma","Advanced Java",0.00
+18528,"Ritesh Iyer","Advanced Java",0.00
+42678,"Meera Menon","Advanced Java",0.00
+30827,"Nikhil Dubey","Advanced Java",0.00
+5240,"Om Choudhary","Advanced Java",0.00
+24753,"Siddharth Bansal","Advanced Java",0.00
+8605,"Manav Choudhary","Advanced Java",0.00
+31186,"Rohan Mehta","Advanced Java",0.00
+8320,"Meera Kapoor","Advanced Java",0.00
+39532,"Rohan Ghosh","Advanced Java",0.00
+12088,"Aarav Thakur","Advanced Java",0.00
+1969,"Pooja Das","Advanced Java",0.00
+44055,"Aarav Khanna","Advanced Java",0.00
+39166,"Harsh Rao","Advanced Java",0.00
+43676,"Yash Iyer","Advanced Java",0.00
+36830,"Rohan Reddy","Advanced Java",0.00
+40945,"Pooja Sharma","Advanced Java",0.00
+45490,"Sneha Gupta","Advanced Java",0.00
+18798,"Sai Sharma","Advanced Java",0.00
+3908,"Ritesh Thakur","Advanced Java",0.00
+10671,"Neha Rao","Automobile Engineering",0.00
+38009,"Aditya Choudhary","Automobile Engineering",0.00
+25218,"Kunal Sinha","Automobile Engineering",0.00
+23914,"Diya Agarwal","Automobile Engineering",0.00
+9061,"Aman Pandey","Automobile Engineering",0.00
+17333,"Pooja Gupta","Automobile Engineering",0.00
+15791,"Neha Ghosh","Automobile Engineering",0.00
+49952,"Dev Sinha","Automobile Engineering",0.00
+32752,"Arjun Nair","Automobile Engineering",0.00
+3113,"Deepak Khanna","Automobile Engineering",0.00
+8552,"Rohan Joshi","Automobile Engineering",0.00
+32637,"Aarav Thakur","Automobile Engineering",0.00
+36223,"Vivaan Agarwal","Automobile Engineering",0.00
+32274,"Deepak Pandey","Automobile Engineering",0.00
+14307,"Ananya Dubey","Automobile Engineering",0.00
+32520,"Krishna Ghosh","Automobile Engineering",0.00
+7956,"Ritika Nair","Automobile Engineering",0.00
+8003,"Kavya Gupta","Automobile Engineering",0.00
+14847,"Sneha Sharma","Automobile Engineering",0.00
+30064,"Aditi Nair","Automobile Engineering",0.00
+26561,"Nikhil Agarwal","Automobile Engineering",0.00
+20583,"Harsh Sinha","Automobile Engineering",0.00
+30943,"Rahul Jain","Automobile Engineering",0.00
+31138,"Rahul Ghosh","Automobile Engineering",0.00
+10494,"Aditi Rao","Automobile Engineering",0.00
+37456,"Vivaan Sinha","Human Computer Interaction",0.00
+46414,"Ritesh Verma","Human Computer Interaction",0.00
+10515,"Aman Sinha","Human Computer Interaction",0.00
+32627,"Sneha Patel","Human Computer Interaction",0.00
+35072,"Sneha Jain","Human Computer Interaction",0.00
+39090,"Krishna Joshi","Human Computer Interaction",0.00
+25465,"Aditya Menon","Human Computer Interaction",0.00
+7579,"Aarav Khanna","Human Computer Interaction",0.00
+21154,"Krishna Dubey","Human Computer Interaction",0.00
+16119,"Priya Jain","Human Computer Interaction",0.00
+46783,"Priya Kapoor","Human Computer Interaction",0.00
+15542,"Om Agarwal","Human Computer Interaction",0.00
+4148,"Aditi Sinha","Human Computer Interaction",0.00
+3624,"Sneha Reddy","Human Computer Interaction",0.00
+22192,"Pooja Reddy","Human Computer Interaction",0.00
+12697,"Pooja Gupta","Human Computer Interaction",0.00
+20938,"Diya Kapoor","Human Computer Interaction",0.00
+17571,"Nikhil Pandey","Human Computer Interaction",0.00
+43012,"Tanmay Das","Human Computer Interaction",0.00
+24003,"Vivaan Iyer","Human Computer Interaction",0.00
+29963,"Aditi Patel","Human Computer Interaction",0.00
+18623,"Sai Nair","Human Computer Interaction",0.00
+9404,"Rohan Sharma","Human Computer Interaction",0.00
+47653,"Rohan Rao","Human Computer Interaction",0.00
+16668,"Aman Das","Human Computer Interaction",0.00
+29632,"Aman Menon","Human Computer Interaction",0.00
+27419,"Aditya Jain","Energy Management",0.00
+26617,"Arjun Ghosh","Energy Management",0.00
+36731,"Dev Dubey","Energy Management",0.00
+27976,"Krishna Reddy","Energy Management",0.00
+271,"Yash Choudhary","Energy Management",0.00
+18790,"Aarav Dubey","Energy Management",0.00
+1186,"Vivaan Thakur","Energy Management",0.00
+15650,"Tanmay Ghosh","Energy Management",0.00
+33510,"Krishna Gupta","Energy Management",0.00
+2032,"Aditi Gupta","Energy Management",0.00
+42718,"Mohit Nair","Energy Management",0.00
+8034,"Diya Dubey","Energy Management",0.00
+6364,"Aditya Agarwal","Energy Management",0.00
+27321,"Dev Menon","Energy Management",0.00
+4978,"Aditya Nair","Energy Management",0.00
+45702,"Varun Jain","Energy Management",0.00
+9049,"Aditi Nair","Energy Management",0.00
+18057,"Ananya Mehta","Energy Management",0.00
+35276,"Aditya Joshi","Energy Management",0.00
+28502,"Aditi Verma","Energy Management",0.00
+36222,"Deepak Reddy","RF Engineering",0.00
+8833,"Aman Pandey","RF Engineering",0.00
+2346,"Sneha Thakur","RF Engineering",0.00
+35426,"Dev Reddy","RF Engineering",0.00
+31988,"Vivaan Rao","RF Engineering",0.00
+21884,"Manav Joshi","RF Engineering",0.00
+45440,"Aditi Thakur","RF Engineering",0.00
+30566,"Tanmay Iyer","RF Engineering",0.00
+46927,"Ritesh Iyer","RF Engineering",0.00
+44625,"Krishna Kapoor","RF Engineering",0.00
+36226,"Sneha Sharma","RF Engineering",0.00
+34410,"Ananya Ghosh","RF Engineering",0.00
+12674,"Deepak Rao","RF Engineering",0.00
+42600,"Om Agarwal","RF Engineering",0.00
+5078,"Yash Reddy","RF Engineering",0.00
+7236,"Siddharth Bansal","RF Engineering",0.00
+36373,"Arjun Choudhary","RF Engineering",0.00
+4238,"Siddharth Nair","RF Engineering",0.00
+7709,"Om Verma","RF Engineering",0.00
+8338,"Siddharth Bansal","RF Engineering",0.00
+298,"Priya Verma","RF Engineering",0.00
+21676,"Dev Thakur","RF Engineering",0.00
+555,"Priya Das","RF Engineering",0.00
+14927,"Rahul Ghosh","Big Data Analytics",0.00
+40196,"Siddharth Khanna","Big Data Analytics",0.00
+35739,"Nikhil Mehta","Big Data Analytics",0.00
+25314,"Ananya Rao","Big Data Analytics",0.00
+38422,"Diya Khanna","Big Data Analytics",0.00
+26579,"Neha Thakur","Big Data Analytics",0.00
+17087,"Priya Kapoor","Big Data Analytics",0.00
+15767,"Kavya Sharma","Big Data Analytics",0.00
+31774,"Aarav Dubey","Big Data Analytics",0.00
+21635,"Aman Sharma","Big Data Analytics",0.00
+10824,"Aditya Kapoor","Big Data Analytics",0.00
+35305,"Neha Pandey","Big Data Analytics",0.00
+45677,"Vivaan Choudhary","Big Data Analytics",0.00
+34315,"Ananya Dubey","Big Data Analytics",0.00
+10663,"Varun Patel","Big Data Analytics",0.00
+37532,"Vivaan Sharma","Big Data Analytics",0.00
+29554,"Harsh Thakur","Big Data Analytics",0.00
+2346,"Sneha Thakur","Big Data Analytics",0.00
+1933,"Varun Bansal","Big Data Analytics",0.00
+46687,"Ishaan Thakur","Big Data Analytics",0.00
+25162,"Vivaan Reddy","Big Data Analytics",0.00
+33038,"Meera Bansal","Big Data Analytics",0.00
+15496,"Meera Gupta","Recommendation Systems",0.00
+16105,"Meera Dubey","Recommendation Systems",0.00
+9390,"Ishaan Bansal","Recommendation Systems",0.00
+47778,"Siddharth Ghosh","Recommendation Systems",0.00
+4376,"Rahul Gupta","Recommendation Systems",0.00
+40399,"Vivaan Thakur","Recommendation Systems",0.00
+19703,"Tanmay Gupta","Recommendation Systems",0.00
+38292,"Sneha Verma","Recommendation Systems",0.00
+8634,"Aditya Verma","Recommendation Systems",0.00
+37212,"Harsh Dubey","Recommendation Systems",0.00
+898,"Arjun Sharma","Recommendation Systems",0.00
+27449,"Yash Kapoor","Recommendation Systems",0.00
+37696,"Ritika Ghosh","Recommendation Systems",0.00
+15493,"Varun Gupta","Recommendation Systems",0.00
+15378,"Nikhil Reddy","Recommendation Systems",0.00
+28276,"Neha Agarwal","Recommendation Systems",0.00
+31007,"Pooja Sharma","Recommendation Systems",0.00
+17263,"Ritika Joshi","Recommendation Systems",0.00
+2530,"Aman Agarwal","Recommendation Systems",0.00
+36218,"Aman Jain","Recommendation Systems",0.00
+7182,"Nikhil Nair","Recommendation Systems",0.00
+41321,"Yash Thakur","Recommendation Systems",0.00
+20299,"Sneha Joshi","Recommendation Systems",0.00
+34947,"Rahul Verma","Recommendation Systems",0.00
+44809,"Rohan Agarwal","Recommendation Systems",0.00
+44060,"Kavya Sharma","Recommendation Systems",0.00
+31592,"Ananya Kapoor","Refrigeration and AC",0.00
+31153,"Sai Thakur","Refrigeration and AC",0.00
+36789,"Ritika Sharma","Refrigeration and AC",0.00
+47416,"Varun Choudhary","Refrigeration and AC",0.00
+21667,"Rahul Gupta","Refrigeration and AC",0.00
+14747,"Ritika Mehta","Refrigeration and AC",0.00
+21820,"Kavya Mehta","Refrigeration and AC",0.00
+27263,"Sai Iyer","Refrigeration and AC",0.00
+43775,"Ananya Patel","Refrigeration and AC",0.00
+47028,"Meera Gupta","Refrigeration and AC",0.00
+10950,"Priya Agarwal","Refrigeration and AC",0.00
+26745,"Manav Thakur","Refrigeration and AC",0.00
+46541,"Yash Bansal","Refrigeration and AC",0.00
+43107,"Priya Iyer","Refrigeration and AC",0.00
+19183,"Siddharth Mehta","Refrigeration and AC",0.00
+40540,"Ritika Reddy","Refrigeration and AC",0.00
+37822,"Krishna Choudhary","Refrigeration and AC",0.00
+9151,"Rahul Agarwal","Refrigeration and AC",0.00
+48095,"Om Iyer","Refrigeration and AC",0.00
+31092,"Dev Sharma","Refrigeration and AC",0.00
+22693,"Aarav Dubey","Refrigeration and AC",0.00
+48503,"Meera Bansal","Refrigeration and AC",0.00
+622,"Rohan Jain","Computer Vision",0.00
+14540,"Priya Choudhary","Computer Vision",0.00
+16535,"Priya Patel","Computer Vision",0.00
+23592,"Rohan Khanna","Computer Vision",0.00
+30341,"Mohit Das","Computer Vision",0.00
+23086,"Kunal Das","Computer Vision",0.00
+31266,"Aarav Bansal","Computer Vision",0.00
+45097,"Tanmay Dubey","Computer Vision",0.00
+35193,"Meera Pandey","Computer Vision",0.00
+25258,"Kunal Menon","Computer Vision",0.00
+15864,"Kavya Menon","Computer Vision",0.00
+5605,"Dev Verma","Computer Vision",0.00
+28471,"Siddharth Dubey","Computer Vision",0.00
+28362,"Yash Iyer","Computer Vision",0.00
+49884,"Meera Reddy","Computer Vision",0.00
+26158,"Neha Sharma","Computer Vision",0.00
+33332,"Deepak Joshi","Computer Vision",0.00
+2421,"Mohit Nair","Computer Vision",0.00
+7047,"Siddharth Rao","Computer Vision",0.00
+3356,"Harsh Kapoor","Welding Technology",0.00
+2963,"Arjun Joshi","Welding Technology",0.00
+4060,"Siddharth Patel","Welding Technology",0.00
+4995,"Ritesh Rao","Welding Technology",0.00
+40201,"Neha Verma","Welding Technology",0.00
+1794,"Deepak Choudhary","Welding Technology",0.00
+37014,"Dev Verma","Welding Technology",0.00
+45602,"Om Dubey","Welding Technology",0.00
+27048,"Priya Das","Welding Technology",0.00
+807,"Kavya Bansal","Welding Technology",0.00
+42718,"Mohit Nair","Welding Technology",0.00
+22942,"Ananya Sinha","Welding Technology",0.00
+32293,"Ritesh Kapoor","Welding Technology",0.00
+23641,"Vivaan Patel","Welding Technology",0.00
+7477,"Vivaan Nair","Welding Technology",0.00
+49587,"Rohan Sharma","Welding Technology",0.00
+17303,"Varun Dubey","Welding Technology",0.00
+46686,"Aarav Kapoor","Welding Technology",0.00
+22174,"Aarav Joshi","Welding Technology",0.00
+4403,"Siddharth Thakur","Transmission Systems",0.00
+49941,"Pooja Menon","Transmission Systems",0.00
+16152,"Diya Gupta","Transmission Systems",0.00
+7808,"Yash Patel","Transmission Systems",0.00
+42398,"Neha Reddy","Transmission Systems",0.00
+42678,"Meera Menon","Transmission Systems",0.00
+37143,"Ishaan Menon","Transmission Systems",0.00
+14192,"Rohan Agarwal","Transmission Systems",0.00
+46437,"Om Sinha","Transmission Systems",0.00
+45983,"Deepak Kapoor","Transmission Systems",0.00
+37304,"Yash Pandey","Transmission Systems",0.00
+2174,"Pooja Iyer","Transmission Systems",0.00
+11145,"Pooja Gupta","Transmission Systems",0.00
+45948,"Kunal Iyer","Transmission Systems",0.00
+14874,"Deepak Dubey","Transmission Systems",0.00
+12046,"Nikhil Mehta","Transmission Systems",0.00
+49649,"Ananya Sharma","Transmission Systems",0.00
+14535,"Diya Jain","Transmission Systems",0.00
+28085,"Kunal Menon","Natural Language Processing",0.00
+4831,"Harsh Rao","Natural Language Processing",0.00
+10625,"Aman Khanna","Natural Language Processing",0.00
+25907,"Diya Kapoor","Natural Language Processing",0.00
+12321,"Meera Mehta","Natural Language Processing",0.00
+40213,"Nikhil Bansal","Natural Language Processing",0.00
+46116,"Manav Patel","Natural Language Processing",0.00
+30180,"Siddharth Gupta","Natural Language Processing",0.00
+47503,"Krishna Reddy","Natural Language Processing",0.00
+2815,"Vivaan Das","Natural Language Processing",0.00
+31793,"Priya Reddy","Natural Language Processing",0.00
+38334,"Aarav Jain","Natural Language Processing",0.00
+46608,"Arjun Sinha","Natural Language Processing",0.00
+28158,"Manav Dubey","Natural Language Processing",0.00
+348,"Neha Nair","Natural Language Processing",0.00
+10652,"Vivaan Das","Natural Language Processing",0.00
+19074,"Pooja Bansal","Natural Language Processing",0.00
+38944,"Sai Gupta","Natural Language Processing",0.00
+4769,"Aditi Patel","Natural Language Processing",0.00
+25692,"Sneha Dubey","Natural Language Processing",0.00
+32830,"Krishna Thakur","Natural Language Processing",0.00
+10536,"Varun Joshi",Cryptography,0.00
+37251,"Kavya Dubey",Cryptography,0.00
+34157,"Manav Ghosh",Cryptography,0.00
+26280,"Tanmay Menon",Cryptography,0.00
+44744,"Nikhil Iyer",Cryptography,0.00
+41484,"Ishaan Agarwal",Cryptography,0.00
+39315,"Om Thakur",Cryptography,0.00
+7342,"Aman Menon",Cryptography,0.00
+23411,"Aman Gupta",Cryptography,0.00
+33358,"Ritesh Bansal",Cryptography,0.00
+16804,"Dev Sinha",Cryptography,0.00
+39370,"Rohan Khanna",Cryptography,0.00
+26128,"Mohit Das",Cryptography,0.00
+26830,"Harsh Joshi",Cryptography,0.00
+25116,"Om Joshi",Cryptography,0.00
+7974,"Deepak Gupta",Cryptography,0.00
+36238,"Rahul Kapoor",Cryptography,0.00
+14655,"Aditya Choudhary",Cryptography,0.00
+5395,"Rohan Reddy",Cryptography,0.00
+21030,"Kunal Joshi",Cryptography,0.00
+44347,"Rohan Bansal",Cryptography,0.00
+33048,"Ritika Das",Cryptography,0.00
+46065,"Meera Reddy",Cryptography,0.00
+36828,"Siddharth Bansal",Cryptography,0.00
+45882,"Dev Patel",Cryptography,0.00
+25320,"Kavya Patel",Cryptography,0.00
+1068,"Varun Sharma",Cryptography,0.00
+37742,"Ritesh Das",Cryptography,0.00
+6235,"Ishaan Khanna","Radar Systems",0.00
+41656,"Rahul Reddy","Radar Systems",0.00
+35830,"Aditi Pandey","Radar Systems",0.00
+48904,"Sneha Rao","Radar Systems",0.00
+10052,"Manav Nair","Radar Systems",0.00
+14883,"Neha Iyer","Radar Systems",0.00
+39181,"Varun Sinha","Radar Systems",0.00
+20410,"Aarav Reddy","Radar Systems",0.00
+2821,"Aman Pandey","Radar Systems",0.00
+42224,"Rohan Agarwal","Radar Systems",0.00
+9802,"Ritika Menon","Radar Systems",0.00
+48267,"Aditya Choudhary","Radar Systems",0.00
+18421,"Arjun Dubey","Radar Systems",0.00
+24609,"Mohit Bansal","Radar Systems",0.00
+15323,"Priya Verma","Radar Systems",0.00
+26510,"Nikhil Reddy","Radar Systems",0.00
+20173,"Dev Sharma","Radar Systems",0.00
+49096,"Krishna Kapoor","Radar Systems",0.00
+40885,"Rohan Rao","Radar Systems",0.00
+41251,"Tanmay Patel","Radar Systems",0.00
+20284,"Aman Gupta","Radar Systems",0.00
+24504,"Aditya Pandey","API Development",0.00
+32859,"Kunal Kapoor","API Development",0.00
+35189,"Om Patel","API Development",0.00
+22283,"Manav Patel","API Development",0.00
+37908,"Sai Nair","API Development",0.00
+19971,"Tanmay Sinha","API Development",0.00
+21766,"Meera Patel","API Development",0.00
+40449,"Ritesh Mehta","API Development",0.00
+21852,"Kavya Das","API Development",0.00
+34050,"Mohit Agarwal","API Development",0.00
+33927,"Arjun Nair","API Development",0.00
+28342,"Pooja Joshi","API Development",0.00
+21485,"Ritika Patel","API Development",0.00
+30870,"Deepak Gupta","API Development",0.00
+46504,"Meera Nair","API Development",0.00
+37822,"Krishna Choudhary","API Development",0.00
+9016,"Sneha Ghosh","API Development",0.00
+31886,"Ananya Das","API Development",0.00
+44577,"Sneha Dubey","API Development",0.00
+12712,"Arjun Agarwal","API Development",0.00
+27958,"Neha Sinha","API Development",0.00
+2629,"Ritesh Ghosh","API Development",0.00
+24076,"Diya Reddy","API Development",0.00
+39373,"Sai Das","API Development",0.00
+11522,"Rahul Kapoor","API Development",0.00
+33385,"Kavya Pandey","API Development",0.00
+16905,"Aditi Thakur","API Development",0.00
+14420,"Tanmay Choudhary","API Development",0.00
+28393,"Sneha Iyer","API Development",0.00
+47483,"Rahul Ghosh","API Development",0.00
+9776,"Diya Gupta","IT Infrastructure Management",0.00
+45076,"Varun Pandey","IT Infrastructure Management",0.00
+18141,"Neha Patel","IT Infrastructure Management",0.00
+38396,"Deepak Ghosh","IT Infrastructure Management",0.00
+24544,"Rohan Das","IT Infrastructure Management",0.00
+21174,"Sai Choudhary","IT Infrastructure Management",0.00
+11628,"Diya Iyer","IT Infrastructure Management",0.00
+30992,"Arjun Agarwal","IT Infrastructure Management",0.00
+40121,"Neha Iyer","IT Infrastructure Management",0.00
+32079,"Kunal Agarwal","IT Infrastructure Management",0.00
+24918,"Sai Mehta","IT Infrastructure Management",0.00
+46406,"Aman Jain","IT Infrastructure Management",0.00
+32857,"Aarav Ghosh","IT Infrastructure Management",0.00
+39640,"Yash Das","IT Infrastructure Management",0.00
+13431,"Rohan Mehta","IT Infrastructure Management",0.00
+44556,"Sneha Kapoor","IT Infrastructure Management",0.00
+5463,"Aman Patel","IT Infrastructure Management",0.00
+8237,"Yash Dubey","IT Infrastructure Management",0.00
+22599,"Neha Choudhary","IT Infrastructure Management",0.00
+13079,"Arjun Verma","Internet of Things",0.00
+36245,"Priya Dubey","Internet of Things",0.00
+32319,"Diya Ghosh","Internet of Things",0.00
+777,"Rohan Sinha","Internet of Things",0.00
+11083,"Aditi Sharma","Internet of Things",0.00
+37598,"Yash Sharma","Internet of Things",0.00
+42168,"Ritesh Sinha","Internet of Things",0.00
+25115,"Nikhil Sharma","Internet of Things",0.00
+19591,"Meera Khanna","Internet of Things",0.00
+25372,"Priya Agarwal","Internet of Things",0.00
+20112,"Rahul Gupta","Internet of Things",0.00
+17631,"Arjun Khanna","Internet of Things",0.00
+41321,"Yash Thakur","Internet of Things",0.00
+26988,"Priya Sharma","Internet of Things",0.00
+2384,"Vivaan Patel","Internet of Things",0.00
+16551,"Kunal Ghosh","Internet of Things",0.00
+40884,"Nikhil Sinha","Internet of Things",0.00
+14416,"Sai Kapoor","Operating Systems",0.00
+49812,"Aditya Thakur","Operating Systems",0.00
+21565,"Aman Mehta","Operating Systems",0.00
+37388,"Priya Kapoor","Operating Systems",0.00
+17480,"Krishna Jain","Operating Systems",0.00
+21356,"Dev Menon","Operating Systems",0.00
+25292,"Vivaan Nair","Operating Systems",0.00
+13801,"Aditi Bansal","Operating Systems",0.00
+10223,"Aarav Sinha","Operating Systems",0.00
+14339,"Ritika Pandey","Operating Systems",0.00
+2525,"Om Nair","Operating Systems",0.00
+7880,"Kunal Agarwal","Operating Systems",0.00
+10358,"Tanmay Nair","Operating Systems",0.00
+6737,"Rahul Choudhary","Operating Systems",0.00
+34112,"Yash Sharma","Operating Systems",0.00
+14423,"Yash Sharma","Operating Systems",0.00
+13807,"Kavya Reddy","Operating Systems",0.00
+252,"Ritika Jain","Operating Systems",0.00
+42656,"Ananya Khanna","Operating Systems",0.00
+28516,"Rohan Das","Operating Systems",0.00
+26941,"Ananya Reddy","Operating Systems",0.00
+33847,"Meera Reddy","Operating Systems",0.00
+12627,"Dev Joshi","Operating Systems",0.00
+40649,"Vivaan Sinha","IT Auditing",0.00
+2371,"Ishaan Nair","IT Auditing",0.00
+34006,"Tanmay Bansal","IT Auditing",0.00
+3415,"Meera Menon","IT Auditing",0.00
+14472,"Deepak Gupta","IT Auditing",0.00
+9023,"Sai Nair","IT Auditing",0.00
+38146,"Ananya Choudhary","IT Auditing",0.00
+31689,"Sai Choudhary","IT Auditing",0.00
+43243,"Meera Pandey","IT Auditing",0.00
+24852,"Dev Verma","IT Auditing",0.00
+36979,"Rohan Jain","IT Auditing",0.00
+40479,"Manav Joshi","IT Auditing",0.00
+18832,"Om Joshi","IT Auditing",0.00
+13554,"Sai Verma","IT Auditing",0.00
+664,"Tanmay Reddy","IT Auditing",0.00
+22043,"Meera Gupta","IT Auditing",0.00
+43054,"Ritika Thakur","IT Auditing",0.00
+39339,"Arjun Pandey","IT Auditing",0.00
+15945,"Ritesh Joshi","IT Auditing",0.00
+12716,"Tanmay Agarwal","IT Auditing",0.00
+18666,"Vivaan Kapoor","IT Auditing",0.00
+28684,"Meera Jain","IT Auditing",0.00
+24040,"Ananya Khanna","IT Auditing",0.00
+47632,"Krishna Ghosh","IT Auditing",0.00
+22039,"Ritika Das","Web Technologies",0.00
+49445,"Om Patel","Web Technologies",0.00
+13511,"Sai Patel","Web Technologies",0.00
+22597,"Varun Rao","Web Technologies",0.00
+32611,"Ritika Khanna","Web Technologies",0.00
+40331,"Deepak Jain","Web Technologies",0.00
+20588,"Ritika Verma","Web Technologies",0.00
+38653,"Dev Iyer","Web Technologies",0.00
+9012,"Ritika Patel","Web Technologies",0.00
+2932,"Harsh Verma","Web Technologies",0.00
+33734,"Sai Menon","Web Technologies",0.00
+11562,"Mohit Nair","Web Technologies",0.00
+39296,"Diya Verma","Web Technologies",0.00
+10878,"Pooja Jain","Web Technologies",0.00
+16863,"Rahul Bansal","Web Technologies",0.00
+26448,"Arjun Sharma","Web Technologies",0.00
+19945,"Varun Sinha","Web Technologies",0.00
+36774,"Harsh Mehta","Web Technologies",0.00
+47858,"Sneha Dubey","Web Technologies",0.00
+2217,"Harsh Sharma","Web Technologies",0.00
+44281,"Ritesh Menon","Web Technologies",0.00
+26520,"Siddharth Jain","Web Technologies",0.00
+16901,"Ritika Menon","Web Technologies",0.00
+31146,"Aditi Rao","Web Technologies",0.00
+20667,"Om Kapoor","Web Technologies",0.00
+28473,"Krishna Pandey","Web Technologies",0.00
+3239,"Deepak Choudhary","Web Technologies",0.00
+39154,"Ritesh Nair","Technology Consulting",0.00
+29495,"Ritesh Khanna","Technology Consulting",0.00
+5438,"Ritesh Verma","Technology Consulting",0.00
+48636,"Ritika Patel","Technology Consulting",0.00
+39343,"Meera Choudhary","Technology Consulting",0.00
+41701,"Priya Joshi","Technology Consulting",0.00
+34929,"Aman Thakur","Technology Consulting",0.00
+11486,"Krishna Mehta","Technology Consulting",0.00
+48890,"Manav Patel","Technology Consulting",0.00
+46760,"Dev Ghosh","Technology Consulting",0.00
+16389,"Dev Menon","Technology Consulting",0.00
+6509,"Kavya Agarwal","Technology Consulting",0.00
+33640,"Neha Pandey","Technology Consulting",0.00
+6229,"Aditi Bansal","Technology Consulting",0.00
+42863,"Yash Rao","Technology Consulting",0.00
+2873,"Nikhil Reddy","Technology Consulting",0.00
+43760,"Mohit Verma","Technology Consulting",0.00
+21309,"Varun Rao","Mobile Computing",0.00
+7181,"Mohit Ghosh","Mobile Computing",0.00
+38152,"Aditya Das","Mobile Computing",0.00
+32420,"Arjun Mehta","Mobile Computing",0.00
+23622,"Sneha Ghosh","Mobile Computing",0.00
+6008,"Dev Ghosh","Mobile Computing",0.00
+6764,"Krishna Verma","Mobile Computing",0.00
+19708,"Diya Mehta","Mobile Computing",0.00
+31533,"Vivaan Reddy","Mobile Computing",0.00
+19455,"Yash Bansal","Mobile Computing",0.00
+32454,"Neha Das","Mobile Computing",0.00
+35233,"Yash Khanna","Mobile Computing",0.00
+23097,"Aditi Rao","Mobile Computing",0.00
+13525,"Ritika Iyer","Mobile Computing",0.00
+12754,"Aditya Agarwal","Mobile Computing",0.00
+36834,"Vivaan Ghosh","Mobile Computing",0.00
+28538,"Om Sinha","Mobile Computing",0.00
+2311,"Sai Jain","Mobile Computing",0.00
+33045,"Neha Choudhary","Mobile Computing",0.00
+47095,"Om Pandey","Mobile Computing",0.00
+11580,"Varun Sharma","Mobile Computing",0.00
+29710,"Harsh Khanna","Mobile Computing",0.00
+47522,"Pooja Agarwal","Production Planning",0.00
+23187,"Ritesh Bansal","Production Planning",0.00
+44948,"Aarav Reddy","Production Planning",0.00
+37450,"Priya Rao","Production Planning",0.00
+5915,"Aarav Joshi","Production Planning",0.00
+48428,"Sneha Agarwal","Production Planning",0.00
+15372,"Vivaan Pandey","Production Planning",0.00
+42866,"Mohit Nair","Production Planning",0.00
+23458,"Aarav Mehta","Production Planning",0.00
+49098,"Tanmay Nair","Production Planning",0.00
+31543,"Arjun Menon","Production Planning",0.00
+44491,"Ishaan Choudhary","Production Planning",0.00
+43159,"Nikhil Agarwal","Production Planning",0.00
+6451,"Siddharth Iyer","Production Planning",0.00
+33981,"Pooja Jain","Production Planning",0.00
+37859,"Nikhil Choudhary","Production Planning",0.00
+12781,"Meera Iyer","Production Planning",0.00
+39000,"Vivaan Khanna","Production Planning",0.00
+30026,"Aditi Patel","Production Planning",0.00
+3374,"Manav Sharma","Production Planning",0.00
+21724,"Dev Patel","Production Planning",0.00
+3196,"Ritesh Khanna","Production Planning",0.00
+19015,"Manav Pandey","Production Planning",0.00
+14880,"Vivaan Bansal","Production Planning",0.00
+21277,"Manav Thakur","Production Planning",0.00
+42007,"Ishaan Jain","Production Planning",0.00
+23134,"Yash Reddy","Production Planning",0.00
+26361,"Rahul Reddy","Production Planning",0.00
+8259,"Rahul Thakur","Production Planning",0.00
+10066,"Deepak Menon","Production Planning",0.00
+37328,"Aditya Patel","Production Planning",0.00
+14049,"Neha Bansal","Production Planning",0.00
+11202,"Kunal Dubey","Production Planning",0.00
+24993,"Om Mehta","Production Planning",0.00
+46406,"Aman Jain","Production Planning",0.00
+29122,"Siddharth Verma","Production Planning",0.00
+47422,"Aarav Pandey","Production Planning",0.00
+49445,"Om Patel","Substation Engineering",0.00
+7182,"Nikhil Nair","Substation Engineering",0.00
+30937,"Siddharth Menon","Substation Engineering",0.00
+39154,"Ritesh Nair","Substation Engineering",0.00
+31061,"Dev Kapoor","Substation Engineering",0.00
+42105,"Aditya Reddy","Substation Engineering",0.00
+38566,"Harsh Sharma","Substation Engineering",0.00
+3046,"Harsh Sinha","Substation Engineering",0.00
+21236,"Kunal Sinha","Substation Engineering",0.00
+252,"Ritika Jain","Substation Engineering",0.00
+33814,"Rahul Khanna","Substation Engineering",0.00
+43219,"Siddharth Bansal","Substation Engineering",0.00
+33307,"Manav Verma","Substation Engineering",0.00
+48649,"Tanmay Dubey","Substation Engineering",0.00
+38616,"Yash Thakur","Substation Engineering",0.00
+398,"Aditi Choudhary","Substation Engineering",0.00
+4526,"Manav Bansal","Substation Engineering",0.00
+1534,"Nikhil Nair","Substation Engineering",0.00
+15502,"Tanmay Pandey","Substation Engineering",0.00
+39262,"Manav Thakur","Substation Engineering",0.00
+6979,"Sneha Dubey","Substation Engineering",0.00
+45851,"Manav Dubey","Substation Engineering",0.00
+34274,"Pooja Jain","Substation Engineering",0.00
+37331,"Aditya Patel","Substation Engineering",0.00
+46332,"Neha Bansal","Substation Engineering",0.00
+31554,"Mohit Thakur","Substation Engineering",0.00
+48336,"Aman Ghosh","Automation Engineering",0.00
+44644,"Kavya Mehta","Automation Engineering",0.00
+48772,"Aditya Sharma","Automation Engineering",0.00
+26997,"Ishaan Reddy","Automation Engineering",0.00
+35830,"Aditi Pandey","Automation Engineering",0.00
+44409,"Tanmay Thakur","Automation Engineering",0.00
+32591,"Rohan Iyer","Automation Engineering",0.00
+36800,"Dev Ghosh","Automation Engineering",0.00
+45730,"Ritesh Choudhary","Automation Engineering",0.00
+36880,"Aman Choudhary","Automation Engineering",0.00
+25067,"Priya Jain","Automation Engineering",0.00
+32155,"Tanmay Jain","Automation Engineering",0.00
+18502,"Arjun Iyer","Automation Engineering",0.00
+31195,"Manav Ghosh","Automation Engineering",0.00
+17381,"Vivaan Rao","Automation Engineering",0.00
+21972,"Aarav Mehta","Automation Engineering",0.00
+7013,"Diya Pandey","Automation Engineering",0.00
+29737,"Aman Khanna","Automation Engineering",0.00
+28889,"Rahul Gupta","Automation Engineering",0.00
+6043,"Om Menon","Automation Engineering",0.00
+18563,"Rohan Dubey","Automation Engineering",0.00
+44563,"Arjun Ghosh","Automation Engineering",0.00
+24292,"Mohit Jain","Automation Engineering",0.00
+13055,"Arjun Choudhary","Automation Engineering",0.00
+16364,"Dev Sharma","Satellite Communication",0.00
+15623,"Aditi Sharma","Satellite Communication",0.00
+666,"Yash Pandey","Satellite Communication",0.00
+21703,"Om Choudhary","Satellite Communication",0.00
+14000,"Aman Ghosh","Satellite Communication",0.00
+23339,"Dev Rao","Satellite Communication",0.00
+21281,"Aman Kapoor","Satellite Communication",0.00
+27275,"Priya Sharma","Satellite Communication",0.00
+49128,"Harsh Pandey","Satellite Communication",0.00
+18762,"Priya Verma","Satellite Communication",0.00
+21025,"Arjun Khanna","Satellite Communication",0.00
+41766,"Neha Thakur","Satellite Communication",0.00
+40839,"Yash Mehta","Satellite Communication",0.00
+40427,"Nikhil Nair","Satellite Communication",0.00
+15454,"Kavya Mehta","Satellite Communication",0.00
+46181,"Rahul Jain","Satellite Communication",0.00
+12321,"Meera Mehta","Satellite Communication",0.00
+1698,"Aman Khanna","Satellite Communication",0.00
+25017,"Ritika Dubey","Satellite Communication",0.00
+13843,"Nikhil Dubey","Satellite Communication",0.00
+22214,"Ananya Nair","Satellite Communication",0.00
+48862,"Varun Agarwal","Satellite Communication",0.00
+10157,"Tanmay Thakur","Satellite Communication",0.00
+45213,"Priya Iyer","Satellite Communication",0.00
+18373,"Rahul Ghosh","Satellite Communication",0.00
+8327,"Aditi Pandey","Satellite Communication",0.00
+43610,"Yash Das","Satellite Communication",0.00
+30302,"Deepak Patel","Satellite Communication",0.00
+5178,"Yash Rao","Satellite Communication",0.00
+38009,"Aditya Choudhary","Data Governance",0.00
+9312,"Kavya Das","Data Governance",0.00
+6424,"Arjun Agarwal","Data Governance",0.00
+10939,"Sai Joshi","Data Governance",0.00
+28118,"Ishaan Verma","Data Governance",0.00
+28248,"Om Iyer","Data Governance",0.00
+20800,"Yash Sinha","Data Governance",0.00
+17111,"Ritesh Joshi","Data Governance",0.00
+45086,"Mohit Agarwal","Data Governance",0.00
+11931,"Dev Sharma","Data Governance",0.00
+47800,"Neha Ghosh","Data Governance",0.00
+22221,"Vivaan Gupta","Data Governance",0.00
+49863,"Sai Menon","Data Governance",0.00
+31011,"Priya Das","Data Governance",0.00
+11689,"Ritesh Patel","Data Governance",0.00
+131,"Yash Verma","Data Governance",0.00
+40127,"Harsh Dubey","Data Governance",0.00
+28649,"Rohan Thakur","Data Governance",0.00
+1870,"Vivaan Menon","Data Governance",0.00
+21542,"Pooja Das","Data Governance",0.00
+22007,"Ishaan Rao","Data Governance",0.00
+40534,"Mohit Khanna","Data Governance",0.00
+13494,"Tanmay Sharma","Data Governance",0.00
+40218,"Pooja Bansal","Data Governance",0.00
+8555,"Ritika Patel","Data Governance",0.00
+35045,"Rahul Agarwal","Data Governance",0.00
+37161,"Aarav Rao","Data Governance",0.00
+45538,"Varun Choudhary","Data Governance",0.00
+28833,"Siddharth Kapoor","Data Governance",0.00
+45328,"Pooja Bansal","Data Governance",0.00
+23334,"Meera Agarwal","Data Governance",0.00
+19635,"Pooja Jain","Data Governance",0.00
+41673,"Aarav Kapoor","Data Governance",0.00
+19139,"Pooja Patel","Data Governance",0.00
+9028,"Rohan Ghosh","VLSI Design",0.00
+36611,"Kavya Sinha","VLSI Design",0.00
+17782,"Mohit Gupta","VLSI Design",0.00
+42336,"Rohan Bansal","VLSI Design",0.00
+16823,"Siddharth Pandey","VLSI Design",0.00
+1344,"Neha Mehta","VLSI Design",0.00
+23664,"Priya Rao","VLSI Design",0.00
+2837,"Ritesh Sharma","VLSI Design",0.00
+38646,"Aarav Nair","VLSI Design",0.00
+18772,"Nikhil Dubey","VLSI Design",0.00
+46150,"Aarav Nair","VLSI Design",0.00
+28453,"Aditi Jain","VLSI Design",0.00
+15089,"Dev Agarwal","VLSI Design",0.00
+41617,"Neha Sharma","VLSI Design",0.00
+20770,"Aman Thakur","VLSI Design",0.00
+31435,"Aditi Bansal","VLSI Design",0.00
+48241,"Meera Das","VLSI Design",0.00
+16344,"Mohit Dubey","VLSI Design",0.00
+35157,"Rahul Nair","VLSI Design",0.00
+44550,"Rahul Ghosh","VLSI Design",0.00
+10208,"Aman Pandey","VLSI Design",0.00
+39417,"Diya Khanna","VLSI Design",0.00
+10373,"Diya Bansal","VLSI Design",0.00
+14382,"Meera Dubey","VLSI Design",0.00
+27364,"Sai Ghosh","VLSI Design",0.00
+4708,"Pooja Gupta","VLSI Design",0.00
+18712,"Harsh Choudhary",Microprocessors,0.00
+44327,"Tanmay Thakur",Microprocessors,0.00
+43690,"Mohit Khanna",Microprocessors,0.00
+41509,"Manav Joshi",Microprocessors,0.00
+47241,"Siddharth Thakur",Microprocessors,0.00
+18521,"Kunal Mehta",Microprocessors,0.00
+23805,"Priya Sinha",Microprocessors,0.00
+46640,"Aditi Choudhary",Microprocessors,0.00
+48065,"Aman Agarwal",Microprocessors,0.00
+11512,"Deepak Nair",Microprocessors,0.00
+28031,"Vivaan Agarwal",Microprocessors,0.00
+29322,"Pooja Mehta",Microprocessors,0.00
+2886,"Ananya Patel",Microprocessors,0.00
+32300,"Mohit Khanna",Microprocessors,0.00
+41928,"Kunal Khanna",Microprocessors,0.00
+3904,"Ananya Rao",Microprocessors,0.00
+32600,"Yash Sinha",Microprocessors,0.00
+26240,"Pooja Joshi",Microprocessors,0.00
+31901,"Aman Joshi",Microprocessors,0.00
+4035,"Meera Mehta",Microprocessors,0.00
+5108,"Mohit Reddy","Digital Electronics",0.00
+26493,"Aditi Verma","Digital Electronics",0.00
+5131,"Sai Iyer","Digital Electronics",0.00
+29369,"Nikhil Das","Digital Electronics",0.00
+7648,"Yash Sharma","Digital Electronics",0.00
+2630,"Arjun Bansal","Digital Electronics",0.00
+44885,"Ritesh Menon","Digital Electronics",0.00
+2096,"Tanmay Ghosh","Digital Electronics",0.00
+27665,"Siddharth Jain","Digital Electronics",0.00
+37372,"Tanmay Dubey","Digital Electronics",0.00
+2107,"Aarav Sharma","Digital Electronics",0.00
+9447,"Om Menon","Digital Electronics",0.00
+25581,"Ishaan Pandey","Digital Electronics",0.00
+35519,"Deepak Iyer","Digital Electronics",0.00
+45845,"Kavya Choudhary","Digital Electronics",0.00
+29636,"Dev Ghosh","Digital Electronics",0.00
+12834,"Aditya Das","Digital Electronics",0.00
+30596,"Aman Iyer","Digital Electronics",0.00
+46190,"Krishna Bansal","Digital Electronics",0.00
+7824,"Ananya Gupta","Digital Electronics",0.00
+44353,"Manav Rao","Digital Electronics",0.00
+38168,"Ishaan Patel","Digital Electronics",0.00
+34887,"Aditya Choudhary","Semiconductor Devices",0.00
+34450,"Aman Iyer","Semiconductor Devices",0.00
+44597,"Neha Khanna","Semiconductor Devices",0.00
+26441,"Ritika Joshi","Semiconductor Devices",0.00
+24119,"Aarav Pandey","Semiconductor Devices",0.00
+8554,"Siddharth Kapoor","Semiconductor Devices",0.00
+20898,"Aarav Choudhary","Semiconductor Devices",0.00
+35305,"Neha Pandey","Semiconductor Devices",0.00
+20685,"Siddharth Agarwal","Semiconductor Devices",0.00
+35467,"Ananya Rao","Semiconductor Devices",0.00
+5316,"Dev Reddy","Semiconductor Devices",0.00
+47706,"Krishna Ghosh","Semiconductor Devices",0.00
+23443,"Krishna Gupta","Semiconductor Devices",0.00
+5017,"Ritesh Kapoor","Semiconductor Devices",0.00
+40855,"Kunal Ghosh","Semiconductor Devices",0.00
+38663,"Kunal Ghosh","Semiconductor Devices",0.00
+22824,"Dev Nair","Semiconductor Devices",0.00
+27317,"Krishna Patel","Semiconductor Devices",0.00
+41549,"Vivaan Thakur","Semiconductor Devices",0.00
+26396,"Aditi Jain","Semiconductor Devices",0.00
+42194,"Sneha Dubey","Semiconductor Devices",0.00
+22282,"Deepak Das","Semiconductor Devices",0.00
+34465,"Pooja Joshi","Semiconductor Devices",0.00
+4802,"Tanmay Khanna","Semiconductor Devices",0.00
+19811,"Ananya Sinha","Semiconductor Devices",0.00
+29454,"Ishaan Agarwal","Semiconductor Devices",0.00
+49561,"Kavya Iyer","Semiconductor Devices",0.00
+25188,"Aditi Choudhary","Semiconductor Devices",0.00
+43092,"Ritika Choudhary","Semiconductor Devices",0.00
+19392,"Manav Kapoor","Semiconductor Devices",0.00
+39154,"Ritesh Nair","Semiconductor Devices",0.00
+4418,"Pooja Verma","Semiconductor Devices",0.00
+12582,"Aditya Khanna","Theory of Computation",0.00
+49921,"Yash Nair","Theory of Computation",0.00
+30700,"Harsh Bansal","Theory of Computation",0.00
+35300,"Meera Sinha","Theory of Computation",0.00
+17718,"Tanmay Jain","Theory of Computation",0.00
+3341,"Kavya Thakur","Theory of Computation",0.00
+10116,"Om Khanna","Theory of Computation",0.00
+15579,"Tanmay Sharma","Theory of Computation",0.00
+8521,"Ritesh Joshi","Theory of Computation",0.00
+35424,"Krishna Bansal","Theory of Computation",0.00
+41543,"Sneha Das","Theory of Computation",0.00
+29510,"Yash Thakur","Theory of Computation",0.00
+8137,"Harsh Bansal","Theory of Computation",0.00
+27288,"Dev Sharma","Theory of Computation",0.00
+311,"Varun Kapoor","Theory of Computation",0.00
+29625,"Manav Bansal","Theory of Computation",0.00
+35727,"Krishna Sharma","Theory of Computation",0.00
+8408,"Diya Agarwal","Theory of Computation",0.00
+20087,"Mohit Agarwal","Theory of Computation",0.00
+40160,"Arjun Gupta","Theory of Computation",0.00
+15732,"Varun Verma","Theory of Computation",0.00
+24346,"Aditya Pandey","Theory of Computation",0.00
+42878,"Aman Sharma","Theory of Computation",0.00
+41549,"Vivaan Thakur","Theory of Computation",0.00
+13770,"Deepak Nair","Signal Processing",0.00
+49327,"Harsh Gupta","Signal Processing",0.00
+7640,"Priya Bansal","Signal Processing",0.00
+39204,"Aarav Mehta","Signal Processing",0.00
+28799,"Nikhil Das","Signal Processing",0.00
+7959,"Kavya Kapoor","Signal Processing",0.00
+35687,"Kavya Rao","Signal Processing",0.00
+32558,"Aditi Mehta","Signal Processing",0.00
+23187,"Ritesh Bansal","Signal Processing",0.00
+37600,"Neha Ghosh","Signal Processing",0.00
+25997,"Rahul Ghosh","Signal Processing",0.00
+34405,"Priya Sinha","Signal Processing",0.00
+49539,"Om Das","Signal Processing",0.00
+15356,"Dev Reddy","Signal Processing",0.00
+48031,"Ishaan Kapoor","Signal Processing",0.00
+14266,"Ananya Iyer","Signal Processing",0.00
+43709,"Ritesh Mehta","Signal Processing",0.00
+33138,"Aman Jain","Signal Processing",0.00
+18871,"Krishna Choudhary","Signal Processing",0.00
+13562,"Sai Patel","Control Instrumentation",0.00
+5014,"Sai Ghosh","Control Instrumentation",0.00
+49489,"Neha Dubey","Control Instrumentation",0.00
+27382,"Aditya Thakur","Control Instrumentation",0.00
+20624,"Krishna Sinha","Control Instrumentation",0.00
+6047,"Ananya Khanna","Control Instrumentation",0.00
+45399,"Manav Rao","Control Instrumentation",0.00
+25537,"Aarav Sinha","Control Instrumentation",0.00
+30622,"Ritika Nair","Control Instrumentation",0.00
+10807,"Sneha Choudhary","Control Instrumentation",0.00
+32266,"Tanmay Menon","Control Instrumentation",0.00
+16690,"Kavya Mehta","Control Instrumentation",0.00
+8622,"Meera Jain","Control Instrumentation",0.00
+46093,"Ritika Das","Control Instrumentation",0.00
+47503,"Krishna Reddy","Control Instrumentation",0.00
+13938,"Om Rao","Control Instrumentation",0.00
+7824,"Ananya Gupta","Control Instrumentation",0.00
+40892,"Ritika Mehta","Dynamics of Machines",0.00
+39910,"Ritesh Choudhary","Dynamics of Machines",0.00
+13426,"Sneha Nair","Dynamics of Machines",0.00
+41749,"Aditi Das","Dynamics of Machines",0.00
+8738,"Siddharth Rao","Dynamics of Machines",0.00
+209,"Vivaan Sinha","Dynamics of Machines",0.00
+28787,"Dev Menon","Dynamics of Machines",0.00
+12097,"Ishaan Gupta","Dynamics of Machines",0.00
+33639,"Aman Choudhary","Dynamics of Machines",0.00
+3318,"Aarav Agarwal","Dynamics of Machines",0.00
+36274,"Vivaan Nair","Dynamics of Machines",0.00
+31386,"Kavya Iyer","Dynamics of Machines",0.00
+17283,"Ishaan Joshi","Dynamics of Machines",0.00
+37482,"Meera Dubey","Dynamics of Machines",0.00
+22293,"Aditi Khanna","Dynamics of Machines",0.00
+473,"Neha Patel","Dynamics of Machines",0.00
+958,"Krishna Nair","Dynamics of Machines",0.00
+15516,"Neha Menon","Dynamics of Machines",0.00
+37634,"Aditi Rao","Dynamics of Machines",0.00
+23109,"Priya Das","Dynamics of Machines",0.00
+38155,"Aditya Reddy","Dynamics of Machines",0.00
+36874,"Arjun Joshi","Dynamics of Machines",0.00
+32947,"Harsh Kapoor","Dynamics of Machines",0.00
+44060,"Kavya Sharma","Dynamics of Machines",0.00
+37729,"Aarav Patel","Dynamics of Machines",0.00
+1336,"Kavya Choudhary","Dynamics of Machines",0.00
+4371,"Kunal Rao","Dynamics of Machines",0.00
+15993,"Tanmay Rao","Deep Learning",0.00
+22688,"Dev Menon","Deep Learning",0.00
+14049,"Neha Bansal","Deep Learning",0.00
+26480,"Yash Bansal","Deep Learning",0.00
+5716,"Dev Agarwal","Deep Learning",0.00
+22380,"Aditya Choudhary","Deep Learning",0.00
+41056,"Sneha Sharma","Deep Learning",0.00
+48732,"Tanmay Sharma","Deep Learning",0.00
+10049,"Kunal Joshi","Deep Learning",0.00
+1808,"Meera Patel","Deep Learning",0.00
+42708,"Vivaan Mehta","Deep Learning",0.00
+39002,"Rahul Das","Deep Learning",0.00
+7148,"Yash Nair","Deep Learning",0.00
+1145,"Arjun Rao","Deep Learning",0.00
+12118,"Neha Nair","Deep Learning",0.00
+34236,"Vivaan Rao","Deep Learning",0.00
+26050,"Meera Ghosh","Deep Learning",0.00
+45597,"Kavya Ghosh","Deep Learning",0.00
+12919,"Mohit Kapoor","Deep Learning",0.00
+26125,"Dev Sharma","Deep Learning",0.00
+8036,"Deepak Menon","Deep Learning",0.00
+34638,"Vivaan Nair","Deep Learning",0.00
+39964,"Manav Ghosh","Deep Learning",0.00
+18965,"Kunal Thakur","Deep Learning",0.00
+48885,"Om Thakur","Deep Learning",0.00
+7138,"Rahul Choudhary","Deep Learning",0.00
+23251,"Tanmay Mehta","Deep Learning",0.00
+16945,"Ishaan Ghosh","Compiler Design",0.00
+11334,"Pooja Choudhary","Compiler Design",0.00
+21621,"Varun Sharma","Compiler Design",0.00
+4272,"Tanmay Kapoor","Compiler Design",0.00
+37471,"Ritika Iyer","Compiler Design",0.00
+34459,"Varun Nair","Compiler Design",0.00
+18373,"Rahul Ghosh","Compiler Design",0.00
+11003,"Neha Bansal","Compiler Design",0.00
+37556,"Krishna Kapoor","Compiler Design",0.00
+47095,"Om Pandey","Compiler Design",0.00
+43770,"Ishaan Iyer","Compiler Design",0.00
+27669,"Varun Menon","Compiler Design",0.00
+47072,"Rahul Iyer","Compiler Design",0.00
+16105,"Meera Dubey","Compiler Design",0.00
+25676,"Ritika Dubey","Compiler Design",0.00
+1632,"Ritesh Sinha","Compiler Design",0.00
+9953,"Varun Khanna","Compiler Design",0.00
+14355,"Yash Dubey","Compiler Design",0.00
+23197,"Ishaan Verma","Compiler Design",0.00
+20921,"Priya Pandey","Compiler Design",0.00
+11796,"Rohan Ghosh","Compiler Design",0.00
+19175,"Sneha Thakur","Compiler Design",0.00
+40904,"Manav Rao","Compiler Design",0.00
+2078,"Aman Thakur","Compiler Design",0.00
+962,"Manav Verma","Compiler Design",0.00
+2279,"Ritesh Khanna","Compiler Design",0.00
+1915,"Harsh Khanna","Compiler Design",0.00
+14451,"Priya Rao","Compiler Design",0.00
+30025,"Rahul Verma","Compiler Design",0.00
+44496,"Pooja Das","Compiler Design",0.00
+44963,"Nikhil Das","Microwave Engineering",0.00
+14415,"Ishaan Mehta","Microwave Engineering",0.00
+47149,"Ritika Verma","Microwave Engineering",0.00
+48937,"Varun Jain","Microwave Engineering",0.00
+25822,"Dev Bansal","Microwave Engineering",0.00
+45245,"Rohan Sinha","Microwave Engineering",0.00
+21863,"Manav Rao","Microwave Engineering",0.00
+26316,"Rahul Patel","Microwave Engineering",0.00
+21503,"Varun Thakur","Microwave Engineering",0.00
+15441,"Sai Sinha","Microwave Engineering",0.00
+1469,"Yash Joshi","Microwave Engineering",0.00
+38510,"Mohit Nair","Microwave Engineering",0.00
+35883,"Kunal Gupta","Microwave Engineering",0.00
+17674,"Kunal Thakur","Microwave Engineering",0.00
+12187,"Rohan Dubey","Microwave Engineering",0.00
+16395,"Meera Mehta","Microwave Engineering",0.00
+15884,"Rahul Khanna","Microwave Engineering",0.00
+26425,"Diya Gupta","Microwave Engineering",0.00
+36817,"Aditi Ghosh","Microwave Engineering",0.00
+27877,"Sai Bansal","Microwave Engineering",0.00
+20327,"Manav Gupta","Microwave Engineering",0.00
+10573,"Sai Ghosh","Microwave Engineering",0.00
+32022,"Aditya Bansal","Microwave Engineering",0.00
+45201,"Aarav Ghosh","Microwave Engineering",0.00
+30620,"Manav Pandey","Microwave Engineering",0.00
+48151,"Meera Rao","Microwave Engineering",0.00
+25190,"Tanmay Verma","Microwave Engineering",0.00
+42863,"Yash Rao","Microwave Engineering",0.00
+32043,"Ananya Nair","Microwave Engineering",0.00
+39960,"Deepak Das","Microwave Engineering",0.00
+26904,"Rohan Khanna","Microwave Engineering",0.00
+40322,"Aarav Agarwal","Agile Methodologies",0.00
+15127,"Kavya Jain","Agile Methodologies",0.00
+9358,"Yash Rao","Agile Methodologies",0.00
+39090,"Krishna Joshi","Agile Methodologies",0.00
+27129,"Priya Khanna","Agile Methodologies",0.00
+3388,"Vivaan Ghosh","Agile Methodologies",0.00
+37828,"Rohan Pandey","Agile Methodologies",0.00
+7876,"Arjun Reddy","Agile Methodologies",0.00
+13098,"Ritesh Rao","Agile Methodologies",0.00
+37808,"Nikhil Sinha","Agile Methodologies",0.00
+11686,"Aditi Agarwal","Agile Methodologies",0.00
+43026,"Manav Jain","Agile Methodologies",0.00
+23180,"Ritika Joshi","Agile Methodologies",0.00
+6930,"Diya Choudhary","Agile Methodologies",0.00
+15787,"Arjun Choudhary","Agile Methodologies",0.00
+653,"Om Pandey","Agile Methodologies",0.00
+5520,"Krishna Das","Agile Methodologies",0.00
+18756,"Sai Agarwal","Agile Methodologies",0.00
+19925,"Priya Dubey","Agile Methodologies",0.00
+27368,"Vivaan Thakur","Agile Methodologies",0.00
+27831,"Harsh Joshi","Agile Methodologies",0.00
+28571,"Aditi Patel","Agile Methodologies",0.00
+15884,"Rahul Khanna","Agile Methodologies",0.00
+17796,"Manav Reddy","Agile Methodologies",0.00
+23560,"Arjun Nair","Agile Methodologies",0.00
+11678,"Nikhil Gupta","Hydraulics and Pneumatics",0.00
+15597,"Arjun Gupta","Hydraulics and Pneumatics",0.00
+22407,"Sneha Das","Hydraulics and Pneumatics",0.00
+26089,"Diya Rao","Hydraulics and Pneumatics",0.00
+42834,"Neha Jain","Hydraulics and Pneumatics",0.00
+32560,"Neha Pandey","Hydraulics and Pneumatics",0.00
+3348,"Diya Agarwal","Hydraulics and Pneumatics",0.00
+5491,"Nikhil Joshi","Hydraulics and Pneumatics",0.00
+25578,"Priya Joshi","Hydraulics and Pneumatics",0.00
+37872,"Dev Gupta","Hydraulics and Pneumatics",0.00
+24217,"Vivaan Bansal","Hydraulics and Pneumatics",0.00
+4071,"Arjun Verma","Hydraulics and Pneumatics",0.00
+17012,"Ishaan Sharma","Hydraulics and Pneumatics",0.00
+46126,"Om Mehta","Hydraulics and Pneumatics",0.00
+14493,"Manav Agarwal","Hydraulics and Pneumatics",0.00
+5831,"Tanmay Thakur","Hydraulics and Pneumatics",0.00
+40235,"Om Patel","Hydraulics and Pneumatics",0.00
+38849,"Aditya Nair","Hydraulics and Pneumatics",0.00
+32374,"Diya Patel","Hydraulics and Pneumatics",0.00
+3666,"Tanmay Gupta","Hydraulics and Pneumatics",0.00
+33577,"Mohit Rao","Hydraulics and Pneumatics",0.00
+13548,"Pooja Agarwal","Hydraulics and Pneumatics",0.00
+30863,"Varun Menon","Hydraulics and Pneumatics",0.00
+5256,"Krishna Gupta","Hydraulics and Pneumatics",0.00
+8543,"Ishaan Sharma","Hydraulics and Pneumatics",0.00
+16753,"Tanmay Rao","Hydraulics and Pneumatics",0.00
+26254,"Sneha Iyer","Digital Forensics",0.00
+35079,"Vivaan Patel","Digital Forensics",0.00
+43654,"Rohan Thakur","Digital Forensics",0.00
+43674,"Rohan Sinha","Digital Forensics",0.00
+46423,"Ananya Agarwal","Digital Forensics",0.00
+10822,"Mohit Das","Digital Forensics",0.00
+41947,"Ritika Mehta","Digital Forensics",0.00
+36576,"Nikhil Joshi","Digital Forensics",0.00
+20515,"Mohit Nair","Digital Forensics",0.00
+20473,"Ishaan Kapoor","Digital Forensics",0.00
+42527,"Aarav Das","Digital Forensics",0.00
+46939,"Deepak Reddy","Digital Forensics",0.00
+3113,"Deepak Khanna","Digital Forensics",0.00
+41119,"Aarav Joshi","Digital Forensics",0.00
+46834,"Krishna Sharma","Digital Forensics",0.00
+22262,"Tanmay Agarwal","Digital Forensics",0.00
+15927,"Ishaan Rao","Digital Forensics",0.00
+23870,"Varun Gupta","Digital Forensics",0.00
+33542,"Dev Reddy","Digital Forensics",0.00
+13420,"Ishaan Bansal","Digital Forensics",0.00
+22615,"Aditi Gupta","Digital Forensics",0.00
+24773,"Kunal Nair","Digital Forensics",0.00
+28403,"Nikhil Nair","Digital Forensics",0.00
+34206,"Harsh Jain","Digital Forensics",0.00
+13650,"Manav Bansal","Digital Forensics",0.00
+13644,"Tanmay Nair","Digital Forensics",0.00
+5924,"Om Khanna","Digital Forensics",0.00
+24922,"Nikhil Khanna","Digital Forensics",0.00
+5240,"Om Choudhary","Machine Design",0.00
+11875,"Aditi Verma","Machine Design",0.00
+7066,"Rahul Menon","Machine Design",0.00
+17303,"Varun Dubey","Machine Design",0.00
+33302,"Diya Sharma","Machine Design",0.00
+409,"Rahul Bansal","Machine Design",0.00
+25841,"Kunal Sharma","Machine Design",0.00
+18538,"Nikhil Rao","Machine Design",0.00
+34781,"Ritika Nair","Machine Design",0.00
+35073,"Nikhil Sinha","Machine Design",0.00
+29555,"Rahul Thakur","Machine Design",0.00
+26318,"Tanmay Bansal","Machine Design",0.00
+5073,"Aarav Agarwal","Machine Design",0.00
+1205,"Diya Mehta","Machine Design",0.00
+25287,"Aarav Dubey","Machine Design",0.00
+31710,"Priya Menon","Machine Design",0.00
+28571,"Aditi Patel","Machine Design",0.00
+7431,"Deepak Choudhary","Machine Design",0.00
+1728,"Diya Choudhary","Machine Design",0.00
+11648,"Om Ghosh","Machine Design",0.00
+37460,"Yash Iyer","Machine Design",0.00
+10794,"Ananya Khanna","Machine Design",0.00
+19115,"Ishaan Mehta","Machine Design",0.00
+32355,"Nikhil Sharma","Machine Design",0.00
+18297,"Manav Mehta","Machine Design",0.00
+29839,"Aditya Khanna","Machine Design",0.00
+4128,"Meera Iyer","Industrial Drives",0.00
+4414,"Varun Menon","Industrial Drives",0.00
+46674,"Aarav Bansal","Industrial Drives",0.00
+9585,"Rohan Gupta","Industrial Drives",0.00
+4357,"Priya Mehta","Industrial Drives",0.00
+43288,"Ritika Pandey","Industrial Drives",0.00
+44150,"Mohit Nair","Industrial Drives",0.00
+46219,"Ritesh Patel","Industrial Drives",0.00
+47607,"Aman Joshi","Industrial Drives",0.00
+44458,"Neha Gupta","Industrial Drives",0.00
+24668,"Ishaan Reddy","Industrial Drives",0.00
+41944,"Varun Gupta","Industrial Drives",0.00
+38109,"Arjun Reddy","Industrial Drives",0.00
+30303,"Deepak Ghosh","Industrial Drives",0.00
+6431,"Nikhil Sinha","Industrial Drives",0.00
+47797,"Ishaan Jain","Industrial Drives",0.00
+11998,"Aditya Ghosh","Industrial Drives",0.00
+46883,"Diya Iyer","Industrial Drives",0.00
+40552,"Aarav Choudhary","Industrial Drives",0.00
+46032,"Priya Reddy","Industrial Drives",0.00
+14135,"Priya Dubey","Industrial Drives",0.00
+26903,"Yash Dubey","Industrial Drives",0.00
+31162,"Tanmay Kapoor","Machine Learning",0.00
+47565,"Aman Ghosh","Machine Learning",0.00
+10197,"Kunal Gupta","Machine Learning",0.00
+44590,"Om Joshi","Machine Learning",0.00
+18283,"Aditi Ghosh","Machine Learning",0.00
+8626,"Rahul Bansal","Machine Learning",0.00
+43182,"Aditi Choudhary","Machine Learning",0.00
+23697,"Ritesh Jain","Machine Learning",0.00
+40698,"Manav Sharma","Machine Learning",0.00
+29080,"Priya Kapoor","Machine Learning",0.00
+43373,"Yash Agarwal","Machine Learning",0.00
+48898,"Aarav Verma","Machine Learning",0.00
+31889,"Pooja Sharma","Machine Learning",0.00
+30438,"Manav Dubey","Machine Learning",0.00
+4741,"Krishna Rao","Machine Learning",0.00
+30449,"Rohan Pandey","Machine Learning",0.00
+45368,"Aarav Iyer","Machine Learning",0.00
+44401,"Manav Mehta","Machine Learning",0.00
+40761,"Meera Nair","Machine Learning",0.00
+7512,"Om Choudhary","Machine Learning",0.00
+34578,"Neha Joshi","Machine Learning",0.00
+28453,"Aditi Jain","Machine Learning",0.00
+47410,"Aarav Gupta","Machine Learning",0.00
+10374,"Aarav Gupta","Machine Learning",0.00
+7808,"Yash Patel","Machine Learning",0.00
+21853,"Rahul Sinha","Machine Learning",0.00
+43891,"Dev Nair","Machine Learning",0.00
+46765,"Rahul Das","Digital Signal Processing",0.00
+7236,"Siddharth Bansal","Digital Signal Processing",0.00
+45824,"Aman Joshi","Digital Signal Processing",0.00
+20780,"Pooja Choudhary","Digital Signal Processing",0.00
+16763,"Sneha Sinha","Digital Signal Processing",0.00
+34640,"Ritesh Patel","Digital Signal Processing",0.00
+22031,"Pooja Agarwal","Digital Signal Processing",0.00
+18623,"Sai Nair","Digital Signal Processing",0.00
+49991,"Aarav Gupta","Digital Signal Processing",0.00
+43635,"Rohan Verma","Digital Signal Processing",0.00
+23455,"Vivaan Sharma","Digital Signal Processing",0.00
+13434,"Neha Dubey","Digital Signal Processing",0.00
+10849,"Dev Rao","Digital Signal Processing",0.00
+10986,"Ritika Sharma","Digital Signal Processing",0.00
+29575,"Neha Rao","Digital Signal Processing",0.00
+46798,"Mohit Agarwal","Digital Signal Processing",0.00
+38251,"Rohan Rao","Digital Signal Processing",0.00
+44057,"Nikhil Jain","Digital Signal Processing",0.00
+3010,"Sai Mehta","Digital Signal Processing",0.00
+3301,"Deepak Nair","Digital Signal Processing",0.00
+49206,"Sneha Verma","Digital Signal Processing",0.00
+13375,"Dev Mehta","Digital Signal Processing",0.00
+21293,"Aarav Das","Digital Signal Processing",0.00
+22224,"Neha Patel","Digital Signal Processing",0.00
+12144,"Siddharth Das","System Integration",0.00
+12003,"Diya Bansal","System Integration",0.00
+36974,"Kunal Jain","System Integration",0.00
+14307,"Ananya Dubey","System Integration",0.00
+13570,"Nikhil Sharma","System Integration",0.00
+44820,"Priya Ghosh","System Integration",0.00
+47056,"Yash Rao","System Integration",0.00
+19834,"Aditya Thakur","System Integration",0.00
+11064,"Rohan Gupta","System Integration",0.00
+35470,"Aditi Patel","System Integration",0.00
+30388,"Kunal Verma","System Integration",0.00
+12091,"Rahul Khanna","System Integration",0.00
+43536,"Kavya Thakur","System Integration",0.00
+42779,"Kavya Patel","System Integration",0.00
+15767,"Kavya Sharma","System Integration",0.00
+37533,"Aman Dubey","System Integration",0.00
+3420,"Sai Das","System Integration",0.00
+39488,"Arjun Agarwal","System Integration",0.00
+22667,"Aarav Choudhary","System Integration",0.00
+17605,"Tanmay Nair","System Integration",0.00
+30077,"Nikhil Dubey","System Integration",0.00
+18768,"Sai Pandey","System Integration",0.00
+3587,"Kavya Khanna","System Integration",0.00
+29129,"Siddharth Bansal","System Integration",0.00
+42111,"Aditi Agarwal","System Integration",0.00
+43625,"Vivaan Mehta","System Integration",0.00
+3012,"Neha Agarwal","System Integration",0.00
+21112,"Manav Sharma","System Integration",0.00
+27822,"Deepak Nair",Thermodynamics,0.00
+29156,"Pooja Thakur",Thermodynamics,0.00
+26856,"Rahul Pandey",Thermodynamics,0.00
+48329,"Sneha Patel",Thermodynamics,0.00
+6467,"Mohit Iyer",Thermodynamics,0.00
+13684,"Dev Gupta",Thermodynamics,0.00
+46544,"Siddharth Pandey",Thermodynamics,0.00
+9231,"Pooja Verma",Thermodynamics,0.00
+18183,"Vivaan Jain",Thermodynamics,0.00
+9146,"Tanmay Choudhary",Thermodynamics,0.00
+42599,"Priya Nair",Thermodynamics,0.00
+49061,"Siddharth Kapoor",Thermodynamics,0.00
+38151,"Siddharth Choudhary",Thermodynamics,0.00
+2189,"Krishna Gupta",Thermodynamics,0.00
+49306,"Aman Thakur",Thermodynamics,0.00
+10683,"Rohan Mehta",Thermodynamics,0.00
+7275,"Diya Mehta",Thermodynamics,0.00
+40593,"Aman Rao",Thermodynamics,0.00
+3456,"Kunal Choudhary",Thermodynamics,0.00
+41117,"Ritesh Ghosh",Thermodynamics,0.00
+14535,"Diya Jain",Thermodynamics,0.00
+22232,"Priya Mehta",Thermodynamics,0.00
+20792,"Deepak Gupta",Thermodynamics,0.00
+48543,"Ananya Jain",Thermodynamics,0.00
+48588,"Manav Rao","Protection Systems",0.00
+7090,"Kunal Patel","Protection Systems",0.00
+48535,"Ishaan Patel","Protection Systems",0.00
+16086,"Aman Iyer","Protection Systems",0.00
+4425,"Kavya Agarwal","Protection Systems",0.00
+6420,"Diya Patel","Protection Systems",0.00
+47402,"Dev Joshi","Protection Systems",0.00
+49085,"Yash Khanna","Protection Systems",0.00
+33053,"Nikhil Mehta","Protection Systems",0.00
+12280,"Yash Jain","Protection Systems",0.00
+39343,"Meera Choudhary","Protection Systems",0.00
+43497,"Deepak Sinha","Protection Systems",0.00
+10562,"Aarav Sinha","Protection Systems",0.00
+5187,"Krishna Dubey","Protection Systems",0.00
+32019,"Harsh Sharma","Protection Systems",0.00
+44637,"Ananya Dubey","Protection Systems",0.00
+48807,"Ritika Bansal","Protection Systems",0.00
+6129,"Ananya Rao","Protection Systems",0.00
+14301,"Dev Joshi","Protection Systems",0.00
+35475,"Priya Bansal","Protection Systems",0.00
+43744,"Meera Menon","Protection Systems",0.00
+11043,"Kunal Reddy","Protection Systems",0.00
+3469,"Ritika Sharma","Industrial Automation",0.00
+30167,"Aman Mehta","Industrial Automation",0.00
+26941,"Ananya Reddy","Industrial Automation",0.00
+38229,"Om Verma","Industrial Automation",0.00
+20888,"Aarav Dubey","Industrial Automation",0.00
+1720,"Aditi Thakur","Industrial Automation",0.00
+21820,"Kavya Mehta","Industrial Automation",0.00
+31106,"Harsh Iyer","Industrial Automation",0.00
+44627,"Harsh Thakur","Industrial Automation",0.00
+31092,"Dev Sharma","Industrial Automation",0.00
+28044,"Dev Jain","Industrial Automation",0.00
+13057,"Mohit Agarwal","Industrial Automation",0.00
+49349,"Diya Sharma","Industrial Automation",0.00
+8138,"Rohan Bansal","Industrial Automation",0.00
+9463,"Kunal Ghosh","Industrial Automation",0.00
+3790,"Diya Gupta","Industrial Automation",0.00
+42322,"Krishna Khanna","Biomedical Electronics",0.00
+26131,"Sai Khanna","Biomedical Electronics",0.00
+209,"Vivaan Sinha","Biomedical Electronics",0.00
+35988,"Rohan Agarwal","Biomedical Electronics",0.00
+33476,"Siddharth Khanna","Biomedical Electronics",0.00
+3140,"Kavya Bansal","Biomedical Electronics",0.00
+23772,"Aditya Verma","Biomedical Electronics",0.00
+10641,"Rohan Patel","Biomedical Electronics",0.00
+30452,"Kavya Kapoor","Biomedical Electronics",0.00
+45757,"Rahul Sharma","Biomedical Electronics",0.00
+49824,"Yash Reddy","Biomedical Electronics",0.00
+18171,"Ritesh Verma","Biomedical Electronics",0.00
+43491,"Varun Thakur","Biomedical Electronics",0.00
+36371,"Sneha Agarwal","Biomedical Electronics",0.00
+43348,"Harsh Iyer","Biomedical Electronics",0.00
+2153,"Rahul Reddy","Biomedical Electronics",0.00
+1445,"Yash Bansal","Biomedical Electronics",0.00
+24119,"Aarav Pandey","Biomedical Electronics",0.00
+5339,"Mohit Iyer","Biomedical Electronics",0.00
+10502,"Krishna Menon","Biomedical Electronics",0.00
+42599,"Priya Nair","Biomedical Electronics",0.00
+22092,"Arjun Sharma","Biomedical Electronics",0.00
+36684,"Aditi Bansal","Biomedical Electronics",0.00
+40772,"Mohit Nair","Biomedical Electronics",0.00
+1673,"Tanmay Khanna","Biomedical Electronics",0.00
+33395,"Yash Kapoor","IT Project Management",0.00
+21178,"Priya Das","IT Project Management",0.00
+46996,"Aarav Choudhary","IT Project Management",0.00
+22548,"Kunal Reddy","IT Project Management",0.00
+31745,"Meera Patel","IT Project Management",0.00
+24830,"Kavya Reddy","IT Project Management",0.00
+5913,"Priya Dubey","IT Project Management",0.00
+31889,"Pooja Sharma","IT Project Management",0.00
+29605,"Priya Patel","IT Project Management",0.00
+39625,"Kunal Rao","IT Project Management",0.00
+23909,"Meera Nair","IT Project Management",0.00
+49225,"Priya Sharma","IT Project Management",0.00
+39635,"Siddharth Pandey","IT Project Management",0.00
+16232,"Aditya Jain","Digital Transformation",0.00
+11276,"Ritesh Dubey","Digital Transformation",0.00
+43882,"Meera Menon","Digital Transformation",0.00
+21912,"Nikhil Das","Digital Transformation",0.00
+37212,"Harsh Dubey","Digital Transformation",0.00
+15538,"Krishna Gupta","Digital Transformation",0.00
+42429,"Neha Agarwal","Digital Transformation",0.00
+34030,"Ritesh Agarwal","Digital Transformation",0.00
+16977,"Deepak Das","Digital Transformation",0.00
+37206,"Aditi Rao","Digital Transformation",0.00
+37140,"Kavya Dubey","Digital Transformation",0.00
+34249,"Kunal Iyer","Digital Transformation",0.00
+46404,"Harsh Reddy","Digital Transformation",0.00
+26275,"Nikhil Menon","Digital Transformation",0.00
+35249,"Om Jain","Digital Transformation",0.00
+11434,"Rohan Choudhary","Digital Transformation",0.00
+38970,"Kunal Menon","Digital Transformation",0.00
+41254,"Arjun Iyer","Digital Transformation",0.00
+23308,"Dev Pandey","Digital Transformation",0.00
+12377,"Mohit Reddy","Digital Transformation",0.00
+11139,"Aditya Sinha","Digital Transformation",0.00
+7038,"Neha Dubey","Digital Transformation",0.00
+2864,"Meera Sinha","Digital Transformation",0.00
+35108,"Krishna Nair","Digital Transformation",0.00
+17161,"Deepak Jain","Digital Transformation",0.00
+13159,"Kavya Gupta","Digital Transformation",0.00
+44932,"Mohit Sharma","Digital Transformation",0.00
+20455,"Om Mehta","Digital Transformation",0.00
+13596,"Diya Nair","Digital Transformation",0.00
+29307,"Deepak Mehta","Digital Transformation",0.00
+3251,"Aman Dubey","Digital Transformation",0.00
+2938,"Om Verma","Digital Transformation",0.00
+16622,"Siddharth Iyer",CAD/CAM,0.00
+688,"Neha Verma",CAD/CAM,0.00
+44572,"Aman Joshi",CAD/CAM,0.00
+711,"Rahul Agarwal",CAD/CAM,0.00
+30204,"Harsh Choudhary",CAD/CAM,0.00
+49998,"Sai Iyer",CAD/CAM,0.00
+47607,"Aman Joshi",CAD/CAM,0.00
+19944,"Nikhil Sharma",CAD/CAM,0.00
+35475,"Priya Bansal",CAD/CAM,0.00
+5784,"Aman Das",CAD/CAM,0.00
+45171,"Arjun Jain",CAD/CAM,0.00
+14752,"Krishna Iyer",CAD/CAM,0.00
+1515,"Aman Gupta",CAD/CAM,0.00
+30186,"Arjun Choudhary",CAD/CAM,0.00
+7214,"Aarav Gupta",CAD/CAM,0.00
+6512,"Rahul Verma",CAD/CAM,0.00
+11317,"Sai Sinha",CAD/CAM,0.00
+48726,"Sai Agarwal",CAD/CAM,0.00
+9675,"Ritika Verma",CAD/CAM,0.00
+757,"Harsh Gupta",CAD/CAM,0.00
+40254,"Ritesh Gupta",CAD/CAM,0.00
+14734,"Sai Rao",CAD/CAM,0.00
+5491,"Nikhil Joshi",CAD/CAM,0.00
+24117,"Kunal Ghosh",CAD/CAM,0.00
+9728,"Ritesh Das",CAD/CAM,0.00
+27178,"Om Gupta",CAD/CAM,0.00
+287,"Neha Verma",CAD/CAM,0.00
+2098,"Rohan Agarwal",CAD/CAM,0.00
+1442,"Dev Nair",CAD/CAM,0.00
+47398,"Priya Rao","Smart Grid Technology",0.00
+20438,"Harsh Menon","Smart Grid Technology",0.00
+4769,"Aditi Patel","Smart Grid Technology",0.00
+34975,"Krishna Joshi","Smart Grid Technology",0.00
+41727,"Yash Iyer","Smart Grid Technology",0.00
+39711,"Aman Khanna","Smart Grid Technology",0.00
+4652,"Kunal Choudhary","Smart Grid Technology",0.00
+21443,"Ananya Joshi","Smart Grid Technology",0.00
+4238,"Siddharth Nair","Smart Grid Technology",0.00
+43239,"Krishna Iyer","Smart Grid Technology",0.00
+28972,"Kunal Pandey","Smart Grid Technology",0.00
+172,"Meera Choudhary","Smart Grid Technology",0.00
+9054,"Rahul Khanna","Smart Grid Technology",0.00
+45109,"Kunal Bansal","Smart Grid Technology",0.00
+41940,"Varun Verma","Smart Grid Technology",0.00
+30559,"Aditya Pandey","Smart Grid Technology",0.00
+23066,"Harsh Nair","Smart Grid Technology",0.00
+10139,"Aarav Choudhary","Smart Grid Technology",0.00
+15603,"Tanmay Dubey","Smart Grid Technology",0.00
+7990,"Yash Sinha","Smart Grid Technology",0.00
+39829,"Varun Jain","Smart Grid Technology",0.00
+47555,"Sneha Khanna","Smart Grid Technology",0.00
+4327,"Ananya Patel","Smart Grid Technology",0.00
+5157,"Harsh Patel","Smart Grid Technology",0.00
+32940,"Varun Menon","Smart Grid Technology",0.00
+19072,"Om Bansal","Smart Grid Technology",0.00
+25218,"Kunal Sinha","Blockchain Technology",0.00
+30292,"Krishna Dubey","Blockchain Technology",0.00
+2390,"Kunal Agarwal","Blockchain Technology",0.00
+13843,"Nikhil Dubey","Blockchain Technology",0.00
+47225,"Pooja Mehta","Blockchain Technology",0.00
+40253,"Rohan Pandey","Blockchain Technology",0.00
+1325,"Neha Rao","Blockchain Technology",0.00
+18876,"Nikhil Kapoor","Blockchain Technology",0.00
+29952,"Aman Rao","Blockchain Technology",0.00
+33304,"Diya Menon","Blockchain Technology",0.00
+20808,"Dev Sinha","Blockchain Technology",0.00
+15351,"Aman Gupta","Blockchain Technology",0.00
+19015,"Manav Pandey","Blockchain Technology",0.00
+15041,"Yash Nair","Blockchain Technology",0.00
+46686,"Aarav Kapoor","Blockchain Technology",0.00
+13596,"Diya Nair","Blockchain Technology",0.00
+9312,"Kavya Das","Blockchain Technology",0.00
+27364,"Sai Ghosh","Blockchain Technology",0.00
+10768,"Pooja Kapoor","Blockchain Technology",0.00
+16067,"Yash Ghosh","Blockchain Technology",0.00
+46366,"Pooja Choudhary","Blockchain Technology",0.00
+12054,"Harsh Sinha","High Voltage Engineering",0.00
+211,"Rohan Agarwal","High Voltage Engineering",0.00
+20756,"Diya Jain","High Voltage Engineering",0.00
+480,"Ritesh Gupta","High Voltage Engineering",0.00
+36611,"Kavya Sinha","High Voltage Engineering",0.00
+39303,"Kunal Menon","High Voltage Engineering",0.00
+21505,"Deepak Iyer","High Voltage Engineering",0.00
+36914,"Sneha Khanna","High Voltage Engineering",0.00
+45443,"Rahul Choudhary","High Voltage Engineering",0.00
+25804,"Sai Patel","High Voltage Engineering",0.00
+38861,"Tanmay Reddy","High Voltage Engineering",0.00
+4508,"Diya Patel","High Voltage Engineering",0.00
+44806,"Deepak Reddy","High Voltage Engineering",0.00
+12046,"Nikhil Mehta","High Voltage Engineering",0.00
+23980,"Ishaan Sinha","High Voltage Engineering",0.00
+49039,"Rohan Iyer","High Voltage Engineering",0.00
+4312,"Arjun Patel","High Voltage Engineering",0.00
+40461,"Vivaan Agarwal","High Voltage Engineering",0.00
+26151,"Om Khanna","High Voltage Engineering",0.00
+30279,"Ritesh Sharma","High Voltage Engineering",0.00
+12074,"Sneha Pandey",Robotics,0.00
+19075,"Manav Das",Robotics,0.00
+27714,"Tanmay Bansal",Robotics,0.00
+11167,"Sai Agarwal",Robotics,0.00
+21655,"Diya Rao",Robotics,0.00
+37331,"Aditya Patel",Robotics,0.00
+37533,"Aman Dubey",Robotics,0.00
+8976,"Kavya Verma",Robotics,0.00
+7389,"Harsh Nair",Robotics,0.00
+12729,"Manav Joshi",Robotics,0.00
+43744,"Meera Menon",Robotics,0.00
+18364,"Pooja Sinha",Robotics,0.00
+17485,"Harsh Khanna",Robotics,0.00
+47800,"Neha Ghosh",Robotics,0.00
+18148,"Meera Pandey",Robotics,0.00
+22834,"Tanmay Jain",Robotics,0.00
+7160,"Pooja Bansal",Robotics,0.00
+14420,"Tanmay Choudhary",Robotics,0.00
+20697,"Tanmay Agarwal","Software Testing",0.00
+5007,"Yash Agarwal","Software Testing",0.00
+48738,"Aditya Pandey","Software Testing",0.00
+5284,"Priya Choudhary","Software Testing",0.00
+48824,"Dev Iyer","Software Testing",0.00
+12408,"Neha Bansal","Software Testing",0.00
+37632,"Sai Patel","Software Testing",0.00
+19436,"Aditi Thakur","Software Testing",0.00
+18477,"Aditi Iyer","Software Testing",0.00
+16503,"Yash Agarwal","Software Testing",0.00
+9061,"Aman Pandey","Software Testing",0.00
+905,"Ritesh Reddy","Software Testing",0.00
+16276,"Sneha Khanna","Software Testing",0.00
+849,"Ritesh Ghosh","Software Testing",0.00
+49602,"Ritesh Bansal","Software Testing",0.00
+5475,"Rohan Choudhary","Software Testing",0.00
+34091,"Aarav Patel","Software Testing",0.00
+7459,"Tanmay Bansal","Software Testing",0.00
+45483,"Siddharth Das","Software Testing",0.00
+5155,"Ishaan Agarwal","Software Testing",0.00
+3934,"Mohit Kapoor","Electric Vehicles",0.00
+46803,"Manav Kapoor","Electric Vehicles",0.00
+34878,"Aditi Patel","Electric Vehicles",0.00
+12962,"Manav Gupta","Electric Vehicles",0.00
+3322,"Ananya Jain","Electric Vehicles",0.00
+37139,"Arjun Patel","Electric Vehicles",0.00
+15716,"Ishaan Iyer","Electric Vehicles",0.00
+28218,"Dev Das","Electric Vehicles",0.00
+43395,"Aarav Agarwal","Electric Vehicles",0.00
+46756,"Nikhil Thakur","Electric Vehicles",0.00
+39559,"Yash Gupta","Electric Vehicles",0.00
+39061,"Sneha Das","Electric Vehicles",0.00
+12345,"Rahul Pandey","Electric Vehicles",0.00
+27743,"Sai Ghosh","Electric Vehicles",0.00
+25952,"Arjun Nair","Electric Vehicles",0.00
+17213,"Aditi Patel","Electric Vehicles",0.00
+19778,"Siddharth Bansal","Electric Vehicles",0.00
+32246,"Aarav Kapoor","Electric Vehicles",0.00
+13624,"Neha Pandey","Electric Vehicles",0.00
+37391,"Aditi Gupta","Electric Vehicles",0.00
+49804,"Siddharth Rao","Electric Vehicles",0.00
+1187,"Sneha Nair","Electric Vehicles",0.00
+3517,"Siddharth Nair","Electric Vehicles",0.00
+28557,"Siddharth Bansal","Electric Vehicles",0.00
+31426,"Varun Sharma","Mechanical Vibrations",0.00
+21724,"Dev Patel","Mechanical Vibrations",0.00
+16160,"Aditi Iyer","Mechanical Vibrations",0.00
+25358,"Ritika Kapoor","Mechanical Vibrations",0.00
+26366,"Vivaan Dubey","Mechanical Vibrations",0.00
+47554,"Neha Agarwal","Mechanical Vibrations",0.00
+37700,"Meera Das","Mechanical Vibrations",0.00
+47175,"Pooja Menon","Mechanical Vibrations",0.00
+21404,"Kavya Kapoor","Mechanical Vibrations",0.00
+40427,"Nikhil Nair","Mechanical Vibrations",0.00
+49136,"Aarav Pandey","Mechanical Vibrations",0.00
+45532,"Priya Gupta","Mechanical Vibrations",0.00
+19614,"Dev Nair","Mechanical Vibrations",0.00
+23735,"Om Sinha","Mechanical Vibrations",0.00
+27304,"Pooja Patel","Mechanical Vibrations",0.00
+30961,"Harsh Gupta","Mechanical Vibrations",0.00
+7442,"Harsh Reddy","Mechanical Vibrations",0.00
+22334,"Neha Patel","Mechanical Vibrations",0.00
+41378,"Sneha Choudhary","Mechanical Vibrations",0.00
+3890,"Nikhil Das","Mechanical Vibrations",0.00
+5957,"Vivaan Iyer","Mechanical Vibrations",0.00
+3684,"Pooja Sharma","Mechanical Vibrations",0.00
+1663,"Ritika Sharma","Mechanical Vibrations",0.00
+35399,"Krishna Joshi","Mechanical Vibrations",0.00
+21256,"Arjun Patel","Mechanical Vibrations",0.00
+21270,"Neha Dubey","Mechanical Vibrations",0.00
+9569,"Varun Gupta","Mechanical Vibrations",0.00
+13220,"Krishna Gupta","Mechanical Vibrations",0.00
+14992,"Mohit Sharma","Mechanical Vibrations",0.00
+42708,"Vivaan Mehta","Mechanical Vibrations",0.00
+15246,"Pooja Kapoor","Mechanical Vibrations",0.00
+48389,"Sai Kapoor","Mechanical Vibrations",0.00
+45200,"Varun Jain","Optical Communication",0.00
+47545,"Pooja Gupta","Optical Communication",0.00
+4102,"Kavya Patel","Optical Communication",0.00
+16146,"Mohit Gupta","Optical Communication",0.00
+32063,"Sai Choudhary","Optical Communication",0.00
+25210,"Sneha Menon","Optical Communication",0.00
+31123,"Tanmay Sinha","Optical Communication",0.00
+24335,"Siddharth Bansal","Optical Communication",0.00
+1740,"Tanmay Patel","Optical Communication",0.00
+33555,"Aarav Menon","Optical Communication",0.00
+30533,"Rohan Sinha","Optical Communication",0.00
+15896,"Ritika Pandey","Optical Communication",0.00
+33660,"Neha Sinha","Optical Communication",0.00
+13393,"Yash Nair","Optical Communication",0.00
+30131,"Dev Menon","Optical Communication",0.00
+48418,"Yash Das","Optical Communication",0.00
+44298,"Rohan Dubey","Optical Communication",0.00
+26739,"Nikhil Gupta","Optical Communication",0.00
+16252,"Krishna Patel","Optical Communication",0.00
+14265,"Kunal Gupta","Optical Communication",0.00
+36331,"Yash Joshi","Optical Communication",0.00
+11502,"Dev Thakur","Optical Communication",0.00
+19033,"Aman Das","Optical Communication",0.00
+4994,"Neha Sinha","Optical Communication",0.00
+32890,"Siddharth Jain","Optical Communication",0.00
+42600,"Om Agarwal","Optical Communication",0.00
+43100,"Harsh Joshi","Cloud Architecture",0.00
+46958,"Ritesh Pandey","Cloud Architecture",0.00
+14662,"Varun Sharma","Cloud Architecture",0.00
+44976,"Nikhil Joshi","Cloud Architecture",0.00
+8010,"Rahul Joshi","Cloud Architecture",0.00
+16916,"Arjun Iyer","Cloud Architecture",0.00
+25010,"Vivaan Pandey","Cloud Architecture",0.00
+38765,"Harsh Mehta","Cloud Architecture",0.00
+24584,"Pooja Jain","Cloud Architecture",0.00
+39286,"Kavya Dubey","Cloud Architecture",0.00
+43382,"Sneha Mehta","Cloud Architecture",0.00
+48925,"Aarav Pandey","Cloud Architecture",0.00
+1104,"Ritika Joshi","Cloud Architecture",0.00
+32686,"Manav Joshi","Cloud Architecture",0.00
+47052,"Ritika Verma","Cloud Architecture",0.00
+45014,"Ananya Menon","Cloud Architecture",0.00
+24731,"Harsh Choudhary","Cloud Architecture",0.00
+16410,"Aman Ghosh","Cloud Architecture",0.00
+46250,"Dev Mehta","Cloud Architecture",0.00
+18009,"Varun Patel","Cloud Architecture",0.00
+48774,"Vivaan Ghosh","Cloud Architecture",0.00
+49580,"Aditya Dubey","Cloud Architecture",0.00
+24207,"Ishaan Khanna","Cloud Architecture",0.00
+35757,"Rohan Pandey","Cloud Architecture",0.00
+49954,"Arjun Khanna","Cloud Architecture",0.00
+20667,"Om Kapoor","Electrical Design",0.00
+28369,"Neha Joshi","Electrical Design",0.00
+29148,"Aditi Pandey","Electrical Design",0.00
+12627,"Dev Joshi","Electrical Design",0.00
+5608,"Pooja Joshi","Electrical Design",0.00
+15722,"Ritesh Jain","Electrical Design",0.00
+11826,"Neha Reddy","Electrical Design",0.00
+40359,"Rahul Choudhary","Electrical Design",0.00
+28957,"Ananya Khanna","Electrical Design",0.00
+39026,"Aditi Choudhary","Electrical Design",0.00
+15243,"Rahul Bansal","Electrical Design",0.00
+23392,"Siddharth Bansal","Electrical Design",0.00
+36336,"Diya Ghosh","Electrical Design",0.00
+12398,"Tanmay Sharma","Electrical Design",0.00
+9075,"Ananya Agarwal","Electrical Design",0.00
+34135,"Tanmay Khanna","Electrical Design",0.00
+31825,"Siddharth Sinha","Electrical Design",0.00
+26918,"Nikhil Menon","Electrical Design",0.00
+17781,"Ritika Das","Electrical Design",0.00
+45571,"Krishna Nair","Electrical Design",0.00
+46629,"Yash Kapoor","Electrical Design",0.00
+41186,"Kavya Agarwal","Electrical Design",0.00
+43526,"Sneha Das","Electrical Design",0.00
+844,"Dev Gupta","Electrical Design",0.00
+33609,"Sai Menon","Electrical Design",0.00
+42124,"Yash Iyer","Electrical Design",0.00
+14629,"Nikhil Reddy","Electrical Design",0.00
+13858,"Kunal Reddy","Electrical Design",0.00
+39815,"Vivaan Jain","Enterprise Systems",0.00
+7139,"Aditya Patel","Enterprise Systems",0.00
+24318,"Meera Das","Enterprise Systems",0.00
+10641,"Rohan Patel","Enterprise Systems",0.00
+13979,"Rohan Jain","Enterprise Systems",0.00
+37212,"Harsh Dubey","Enterprise Systems",0.00
+31254,"Arjun Dubey","Enterprise Systems",0.00
+32359,"Nikhil Reddy","Enterprise Systems",0.00
+32056,"Dev Ghosh","Enterprise Systems",0.00
+46783,"Priya Kapoor","Enterprise Systems",0.00
+10357,"Dev Menon","Enterprise Systems",0.00
+44294,"Tanmay Rao","Enterprise Systems",0.00
+39468,"Tanmay Verma","Enterprise Systems",0.00
+20225,"Rohan Joshi","Enterprise Systems",0.00
+48375,"Nikhil Menon","Enterprise Systems",0.00
+31916,"Sai Verma","Enterprise Systems",0.00
+44150,"Mohit Nair","Enterprise Systems",0.00
+15116,"Rohan Agarwal","Enterprise Systems",0.00
+47680,"Om Sharma","Enterprise Systems",0.00
+17440,"Aditya Thakur","Enterprise Systems",0.00
+25954,"Rahul Nair","Enterprise Systems",0.00
+34038,"Sai Khanna","Python Programming",0.00
+5328,"Ritesh Das","Python Programming",0.00
+43063,"Vivaan Choudhary","Python Programming",0.00
+5287,"Aarav Agarwal","Python Programming",0.00
+35566,"Sneha Verma","Python Programming",0.00
+31667,"Manav Menon","Python Programming",0.00
+12511,"Diya Sinha","Python Programming",0.00
+480,"Ritesh Gupta","Python Programming",0.00
+9138,"Rahul Mehta","Python Programming",0.00
+33510,"Krishna Gupta","Python Programming",0.00
+35079,"Vivaan Patel","Python Programming",0.00
+24651,"Rohan Sinha","Python Programming",0.00
+37721,"Harsh Verma","Python Programming",0.00
+38066,"Diya Das","Python Programming",0.00
+38705,"Kunal Kapoor","Python Programming",0.00
+23550,"Tanmay Jain","Python Programming",0.00
+13421,"Rahul Nair","Python Programming",0.00
+26398,"Rohan Agarwal","Python Programming",0.00
+10470,"Tanmay Ghosh","Python Programming",0.00
+14859,"Neha Sinha","Python Programming",0.00
+27094,"Varun Menon","Python Programming",0.00
+48401,"Varun Sharma","Python Programming",0.00
+48511,"Kunal Choudhary","Python Programming",0.00
+3514,"Aditya Bansal","Python Programming",0.00
+32633,"Tanmay Sinha","Python Programming",0.00
+44670,"Pooja Pandey","Fluid Mechanics",0.00
+36240,"Manav Nair","Fluid Mechanics",0.00
+1220,"Ishaan Rao","Fluid Mechanics",0.00
+7859,"Ananya Patel","Fluid Mechanics",0.00
+5395,"Rohan Reddy","Fluid Mechanics",0.00
+21856,"Sneha Ghosh","Fluid Mechanics",0.00
+34170,"Nikhil Sinha","Fluid Mechanics",0.00
+42327,"Sneha Joshi","Fluid Mechanics",0.00
+5429,"Aman Rao","Fluid Mechanics",0.00
+27624,"Neha Choudhary","Fluid Mechanics",0.00
+36037,"Sai Rao","Fluid Mechanics",0.00
+7597,"Siddharth Das","Fluid Mechanics",0.00
+20231,"Harsh Rao","Fluid Mechanics",0.00
+22711,"Harsh Sinha","Fluid Mechanics",0.00
+7077,"Harsh Gupta","Fluid Mechanics",0.00
+39407,"Krishna Nair","Fluid Mechanics",0.00
+15296,"Siddharth Das","Fluid Mechanics",0.00
+44420,"Rahul Patel","Fluid Mechanics",0.00
+29554,"Harsh Thakur","Fluid Mechanics",0.00
+26875,"Sneha Agarwal","Fluid Mechanics",0.00
+46873,"Pooja Agarwal","Fluid Mechanics",0.00
+9303,"Priya Iyer","Fluid Mechanics",0.00
+33237,"Deepak Joshi","Fluid Mechanics",0.00
+46737,"Vivaan Iyer","Fluid Mechanics",0.00
+20583,"Harsh Sinha","Fluid Mechanics",0.00
+34479,"Om Joshi","Fluid Mechanics",0.00
+45863,"Rahul Verma","Fluid Mechanics",0.00
+29072,"Mohit Rao","Artificial Intelligence",0.00
+19780,"Kavya Reddy","Artificial Intelligence",0.00
+24539,"Aman Agarwal","Artificial Intelligence",0.00
+16977,"Deepak Das","Artificial Intelligence",0.00
+45816,"Aditya Das","Artificial Intelligence",0.00
+20524,"Ananya Sharma","Artificial Intelligence",0.00
+37281,"Yash Agarwal","Artificial Intelligence",0.00
+30839,"Harsh Gupta","Artificial Intelligence",0.00
+45927,"Sai Iyer","Artificial Intelligence",0.00
+2934,"Aman Thakur","Artificial Intelligence",0.00
+16197,"Diya Das","Artificial Intelligence",0.00
+27710,"Varun Menon","Artificial Intelligence",0.00
+3503,"Pooja Patel","Artificial Intelligence",0.00
+2410,"Meera Verma","Artificial Intelligence",0.00
+28030,"Aarav Rao","Artificial Intelligence",0.00
+39701,"Krishna Nair","Artificial Intelligence",0.00
+25665,"Varun Bansal","Artificial Intelligence",0.00
+33806,"Siddharth Patel","Artificial Intelligence",0.00
+49717,"Krishna Kapoor","Artificial Intelligence",0.00
+15932,"Manav Kapoor","Artificial Intelligence",0.00
+33670,"Arjun Sinha","Artificial Intelligence",0.00
+4149,"Sneha Rao","Wireless Networks",0.00
+24058,"Diya Joshi","Wireless Networks",0.00
+47178,"Vivaan Bansal","Wireless Networks",0.00
+23815,"Manav Agarwal","Wireless Networks",0.00
+10123,"Aarav Jain","Wireless Networks",0.00
+28099,"Sneha Ghosh","Wireless Networks",0.00
+159,"Yash Nair","Wireless Networks",0.00
+3712,"Yash Mehta","Wireless Networks",0.00
+39278,"Tanmay Joshi","Wireless Networks",0.00
+13055,"Arjun Choudhary","Wireless Networks",0.00
+23325,"Aarav Reddy","Wireless Networks",0.00
+7279,"Sai Das","Wireless Networks",0.00
+12963,"Vivaan Mehta","Wireless Networks",0.00
+26576,"Ananya Iyer","Wireless Networks",0.00
+49316,"Dev Ghosh","Wireless Networks",0.00
+42105,"Aditya Reddy","Wireless Networks",0.00
+41742,"Aditi Menon","Wireless Networks",0.00
+31597,"Varun Kapoor","Wireless Networks",0.00
+17315,"Varun Khanna","Wireless Networks",0.00
+23491,"Sneha Iyer","Wireless Networks",0.00
+25744,"Sai Gupta","Wireless Networks",0.00
+18538,"Nikhil Rao","Wireless Networks",0.00
+20045,"Arjun Khanna","Wireless Networks",0.00
+14107,"Ritika Choudhary","Wireless Networks",0.00
+22910,"Krishna Ghosh","Wireless Networks",0.00
+32143,"Siddharth Gupta","Wireless Networks",0.00
+42549,"Tanmay Reddy","Wireless Networks",0.00
+41975,"Neha Kapoor","Wireless Networks",0.00
+12090,"Mohit Mehta","Wireless Networks",0.00
+44394,"Tanmay Pandey","Wireless Networks",0.00
+3660,"Ishaan Khanna","Wireless Networks",0.00
+48686,"Dev Das","Wireless Networks",0.00
+10622,"Kunal Pandey","Data Structures",0.00
+11342,"Mohit Das","Data Structures",0.00
+49755,"Mohit Verma","Data Structures",0.00
+13901,"Rahul Verma","Data Structures",0.00
+47633,"Aman Rao","Data Structures",0.00
+40750,"Kavya Reddy","Data Structures",0.00
+24283,"Dev Sinha","Data Structures",0.00
+9138,"Rahul Mehta","Data Structures",0.00
+22070,"Pooja Mehta","Data Structures",0.00
+21580,"Tanmay Sinha","Data Structures",0.00
+12431,"Kunal Dubey","Data Structures",0.00
+46127,"Mohit Das","Data Structures",0.00
+20562,"Nikhil Khanna","Data Structures",0.00
+26319,"Kavya Verma","Data Structures",0.00
+44239,"Ishaan Choudhary","Data Structures",0.00
+46797,"Sneha Mehta","Data Structures",0.00
+41119,"Aarav Joshi","Data Structures",0.00
+46958,"Ritesh Pandey","Data Structures",0.00
+25036,"Yash Sharma","Data Structures",0.00
+39061,"Sneha Das","Data Structures",0.00
+14553,"Yash Rao","Data Structures",0.00
+8636,"Kavya Agarwal","Data Structures",0.00
+9960,"Meera Kapoor","Data Structures",0.00
+39821,"Yash Dubey","Data Structures",0.00
+30338,"Aarav Das","Data Structures",0.00
+10024,"Krishna Verma","Data Structures",0.00
+29351,"Aditya Mehta","Data Structures",0.00
+18528,"Ritesh Iyer","Data Structures",0.00
+15372,"Vivaan Pandey","Data Structures",0.00
+48680,"Sneha Das","Data Structures",0.00
+21497,"Ritesh Sinha","Data Structures",0.00
+46116,"Manav Patel","Data Structures",0.00
+49728,"Varun Sharma","Composite Materials",0.00
+6229,"Aditi Bansal","Composite Materials",0.00
+14389,"Harsh Bansal","Composite Materials",0.00
+6321,"Aarav Khanna","Composite Materials",0.00
+19724,"Harsh Reddy","Composite Materials",0.00
+22437,"Yash Gupta","Composite Materials",0.00
+20859,"Aditi Thakur","Composite Materials",0.00
+18768,"Sai Pandey","Composite Materials",0.00
+22845,"Vivaan Mehta","Composite Materials",0.00
+22334,"Neha Patel","Composite Materials",0.00
+46912,"Ritesh Bansal","Composite Materials",0.00
+6134,"Aditya Reddy","Composite Materials",0.00
+10999,"Om Thakur","Composite Materials",0.00
+40628,"Rohan Pandey","Composite Materials",0.00
+25529,"Aman Dubey","Composite Materials",0.00
+12444,"Siddharth Sinha","Composite Materials",0.00
+7021,"Priya Thakur","Composite Materials",0.00
+45702,"Varun Jain","Composite Materials",0.00
+41808,"Ritika Sharma","Composite Materials",0.00
+35370,"Kavya Bansal","Composite Materials",0.00
+9572,"Pooja Gupta","Composite Materials",0.00
+7804,"Meera Iyer","Composite Materials",0.00
+23106,"Ritesh Patel","Composite Materials",0.00
+32553,"Arjun Verma","Composite Materials",0.00
+23980,"Ishaan Sinha","Composite Materials",0.00
+39339,"Arjun Pandey","Composite Materials",0.00
+14370,"Aditi Choudhary","Composite Materials",0.00
+47764,"Rahul Menon","Game Development",0.00
+40821,"Tanmay Rao","Game Development",0.00
+27519,"Pooja Rao","Game Development",0.00
+48678,"Diya Khanna","Game Development",0.00
+40194,"Ananya Mehta","Game Development",0.00
+49093,"Tanmay Agarwal","Game Development",0.00
+41651,"Manav Patel","Game Development",0.00
+5823,"Aditi Kapoor","Game Development",0.00
+33692,"Kunal Choudhary","Game Development",0.00
+7419,"Sai Bansal","Game Development",0.00
+11577,"Kavya Gupta","Game Development",0.00
+3670,"Vivaan Kapoor","Game Development",0.00
+22910,"Krishna Ghosh","Game Development",0.00
+30865,"Harsh Agarwal","Game Development",0.00
+33996,"Arjun Bansal","Game Development",0.00
+32134,"Priya Khanna","Game Development",0.00
+23961,"Ritesh Dubey","Game Development",0.00
+18990,"Rahul Joshi","Game Development",0.00
+4995,"Ritesh Rao","Game Development",0.00
+43012,"Tanmay Das","Game Development",0.00
+14791,"Om Joshi","Game Development",0.00
+34288,"Aditya Menon","Quantum Computing",0.00
+5685,"Diya Mehta","Quantum Computing",0.00
+21074,"Ishaan Choudhary","Quantum Computing",0.00
+4647,"Ishaan Iyer","Quantum Computing",0.00
+28201,"Priya Khanna","Quantum Computing",0.00
+6414,"Aditi Ghosh","Quantum Computing",0.00
+13849,"Meera Iyer","Quantum Computing",0.00
+44104,"Aman Thakur","Quantum Computing",0.00
+28266,"Priya Bansal","Quantum Computing",0.00
+35311,"Tanmay Gupta","Quantum Computing",0.00
+41052,"Meera Menon","Quantum Computing",0.00
+19624,"Manav Rao","Quantum Computing",0.00
+35697,"Vivaan Gupta","Quantum Computing",0.00
+40449,"Ritesh Mehta","Quantum Computing",0.00
+37839,"Siddharth Choudhary","Quantum Computing",0.00
+37881,"Harsh Sharma","Quantum Computing",0.00
+11869,"Kavya Dubey","Quantum Computing",0.00
+13055,"Arjun Choudhary","Quantum Computing",0.00
+30839,"Harsh Gupta","Quantum Computing",0.00
+36728,"Ritika Das","Quantum Computing",0.00
+10852,"Yash Joshi","Quantum Computing",0.00
+34055,"Tanmay Sharma","Renewable Energy Systems",0.00
+28562,"Om Bansal","Renewable Energy Systems",0.00
+3340,"Yash Khanna","Renewable Energy Systems",0.00
+46745,"Harsh Agarwal","Renewable Energy Systems",0.00
+17957,"Neha Verma","Renewable Energy Systems",0.00
+11296,"Pooja Rao","Renewable Energy Systems",0.00
+1191,"Neha Jain","Renewable Energy Systems",0.00
+21904,"Diya Pandey","Renewable Energy Systems",0.00
+18373,"Rahul Ghosh","Renewable Energy Systems",0.00
+20732,"Aman Dubey","Renewable Energy Systems",0.00
+12062,"Aarav Kapoor","Renewable Energy Systems",0.00
+18990,"Rahul Joshi","Renewable Energy Systems",0.00
+38544,"Aditi Das","Renewable Energy Systems",0.00
+29411,"Sneha Nair","Renewable Energy Systems",0.00
+2208,"Meera Reddy","Renewable Energy Systems",0.00
+44959,"Meera Kapoor","Renewable Energy Systems",0.00
+42994,"Kavya Sinha","Renewable Energy Systems",0.00
+9505,"Kunal Kapoor","Renewable Energy Systems",0.00
+31526,"Priya Sharma","Renewable Energy Systems",0.00
+2877,"Siddharth Jain","Renewable Energy Systems",0.00
+37710,"Mohit Bansal","Renewable Energy Systems",0.00
+24826,"Rohan Sharma","Renewable Energy Systems",0.00
+14267,"Kavya Patel","Renewable Energy Systems",0.00
+35730,"Om Rao","Renewable Energy Systems",0.00
+4701,"Ritika Agarwal","Renewable Energy Systems",0.00
+21066,"Aditya Joshi","Renewable Energy Systems",0.00
+35904,"Kunal Rao","Data Mining",0.00
+31514,"Neha Kapoor","Data Mining",0.00
+37532,"Vivaan Sharma","Data Mining",0.00
+29626,"Kunal Dubey","Data Mining",0.00
+24790,"Ritika Kapoor","Data Mining",0.00
+40628,"Rohan Pandey","Data Mining",0.00
+11795,"Yash Sharma","Data Mining",0.00
+25797,"Dev Iyer","Data Mining",0.00
+8149,"Aarav Thakur","Data Mining",0.00
+28248,"Om Iyer","Data Mining",0.00
+6815,"Aman Ghosh","Data Mining",0.00
+5347,"Krishna Choudhary","Data Mining",0.00
+1056,"Pooja Kapoor","Data Mining",0.00
+20550,"Ishaan Nair","Data Mining",0.00
+6907,"Rahul Nair","Data Mining",0.00
+24446,"Vivaan Joshi","Data Mining",0.00
+26059,"Vivaan Das","Data Mining",0.00
+26332,"Aditi Sinha","Data Mining",0.00
+13201,"Meera Ghosh","Data Mining",0.00
+26398,"Rohan Agarwal","Data Mining",0.00
+41412,"Ananya Joshi","Data Mining",0.00
+43043,"Rohan Verma","Data Mining",0.00
+25190,"Tanmay Verma","Information Security",0.00
+2173,"Ritesh Joshi","Information Security",0.00
+42766,"Pooja Ghosh","Information Security",0.00
+24298,"Aman Gupta","Information Security",0.00
+15029,"Manav Rao","Information Security",0.00
+2189,"Krishna Gupta","Information Security",0.00
+48969,"Ananya Kapoor","Information Security",0.00
+30302,"Deepak Patel","Information Security",0.00
+17638,"Ananya Nair","Information Security",0.00
+39260,"Ritika Gupta","Information Security",0.00
+46765,"Rahul Das","Information Security",0.00
+24532,"Krishna Sharma","Information Security",0.00
+49090,"Kunal Gupta","Information Security",0.00
+9215,"Krishna Dubey","Information Security",0.00
+5983,"Tanmay Reddy","Information Security",0.00
+4415,"Ishaan Jain","Information Security",0.00
+47503,"Krishna Reddy","Information Security",0.00
+15245,"Deepak Sinha","Information Security",0.00
+20187,"Vivaan Patel","Information Security",0.00
+17657,"Diya Reddy","Information Security",0.00
+6815,"Aman Ghosh","Information Security",0.00
+27822,"Deepak Nair","Information Security",0.00
+20796,"Arjun Das","Information Security",0.00
+38396,"Deepak Ghosh","Information Security",0.00
+45948,"Kunal Iyer","Information Security",0.00
+12955,"Priya Ghosh","Information Security",0.00
+10042,"Ishaan Jain","Information Security",0.00
+44092,"Mohit Nair","Information Security",0.00
+25476,"Aditya Bansal","Information Security",0.00
+49234,"Siddharth Kapoor","Information Security",0.00
+28164,"Deepak Nair","Information Security",0.00
+22557,"Ananya Khanna","Electrical Measurements",33.33
+20592,"Om Choudhary","Welding Technology",33.33
+2685,"Vivaan Iyer",Cryptography,33.33
+37246,"Varun Sinha","Mobile Computing",33.33
+38229,"Om Verma","Production Planning",33.33
+3944,"Om Nair","Electrical Design",33.33
+32520,"Krishna Ghosh","Industrial Engineering",50.00
+44556,"Sneha Kapoor","Industrial Engineering",50.00
+24318,"Meera Das","Industrial Engineering",50.00
+23971,"Arjun Pandey","Industrial Engineering",50.00
+32830,"Krishna Thakur","Industrial Engineering",50.00
+10065,"Kunal Das","Industrial Engineering",50.00
+26450,"Dev Kapoor","Industrial Engineering",50.00
+32267,"Rohan Reddy","Plant Engineering",50.00
+38076,"Kunal Khanna","Plant Engineering",50.00
+30510,"Mohit Rao","Plant Engineering",50.00
+25185,"Harsh Patel","Software Architecture",50.00
+49561,"Kavya Iyer","Software Architecture",50.00
+36847,"Varun Joshi","Software Architecture",50.00
+46311,"Manav Gupta","Software Architecture",50.00
+5583,"Om Joshi","Software Architecture",50.00
+38468,"Neha Iyer","Software Architecture",50.00
+4080,"Aditi Jain","Software Architecture",50.00
+39017,"Pooja Jain","Software Architecture",50.00
+23895,"Vivaan Nair","Electrical Measurements",50.00
+37999,"Neha Dubey","Electrical Measurements",50.00
+36960,"Rahul Pandey","Electrical Measurements",50.00
+5007,"Yash Agarwal","Electrical Measurements",50.00
+46190,"Krishna Bansal","IoT Hardware Design",50.00
+4152,"Deepak Thakur","Business Intelligence",50.00
+48815,"Harsh Nair","Business Intelligence",50.00
+42253,"Ishaan Mehta","Business Intelligence",50.00
+27729,"Manav Choudhary","Power Plant Engineering",50.00
+28805,"Rohan Menon","Power Plant Engineering",50.00
+33360,"Om Pandey","Power Plant Engineering",50.00
+37080,"Sai Verma","Power Plant Engineering",50.00
+15771,"Sneha Menon","Communication Systems",50.00
+43374,"Aditi Mehta","Communication Systems",50.00
+21124,"Ritika Verma","Communication Systems",50.00
+2279,"Ritesh Khanna","Communication Systems",50.00
+34535,"Varun Rao","Communication Systems",50.00
+34694,"Deepak Sharma","Analog Circuits",50.00
+11984,"Sneha Agarwal","Analog Circuits",50.00
+24925,"Deepak Dubey","Software Engineering",50.00
+13803,"Tanmay Pandey","Software Engineering",50.00
+25997,"Rahul Ghosh",DevOps,50.00
+24418,"Kunal Bansal",DevOps,50.00
+17231,"Pooja Mehta",DevOps,50.00
+38268,"Diya Jain","Heat Transfer",50.00
+41928,"Kunal Khanna","Heat Transfer",50.00
+1490,"Rahul Das","Circuit Theory",50.00
+8417,"Pooja Rao","Circuit Theory",50.00
+42023,"Arjun Sinha","Tool Engineering",50.00
+19270,"Nikhil Ghosh","Tool Engineering",50.00
+772,"Rahul Ghosh","Tool Engineering",50.00
+16203,"Tanmay Ghosh","Tool Engineering",50.00
+35158,"Meera Ghosh","Tool Engineering",50.00
+27981,"Tanmay Sharma","Tool Engineering",50.00
+24456,"Sai Rao","Tool Engineering",50.00
+35659,"Vivaan Patel","Tool Engineering",50.00
+25383,"Varun Agarwal","Tool Engineering",50.00
+25692,"Sneha Dubey","Electrical Machines",50.00
+10268,"Aarav Pandey","Electrical Machines",50.00
+15528,"Ishaan Khanna","Electrical Machines",50.00
+2050,"Nikhil Thakur","Electrical Machines",50.00
+7129,"Aditi Thakur","Electrical Machines",50.00
+775,"Rohan Gupta","Electrical Machines",50.00
+15529,"Deepak Iyer","Electrical Machines",50.00
+5611,"Priya Patel","Electrical Machines",50.00
+23969,"Yash Bansal","Full Stack Development",50.00
+3779,"Rohan Thakur","Full Stack Development",50.00
+3203,"Priya Dubey","Full Stack Development",50.00
+46724,"Aditi Reddy","Full Stack Development",50.00
+10082,"Krishna Thakur","Object Oriented Programming",50.00
+35863,"Nikhil Mehta","Object Oriented Programming",50.00
+48182,"Pooja Agarwal","Object Oriented Programming",50.00
+47176,"Pooja Jain","Object Oriented Programming",50.00
+21086,"Vivaan Verma","Object Oriented Programming",50.00
+25594,"Aditi Sinha","Object Oriented Programming",50.00
+7577,"Aditya Reddy",Mechatronics,50.00
+3743,"Rahul Verma",Mechatronics,50.00
+34947,"Rahul Verma",Mechatronics,50.00
+44671,"Diya Jain","Embedded Systems",50.00
+3232,"Sneha Choudhary","Embedded Systems",50.00
+17828,"Ananya Iyer","Embedded Systems",50.00
+14155,"Nikhil Sharma","Embedded Systems",50.00
+34511,"Harsh Reddy","Parallel Computing",50.00
+19841,"Krishna Khanna","Parallel Computing",50.00
+25572,"Ananya Nair","Power Systems",50.00
+22506,"Neha Agarwal","Computer Networks",50.00
+47225,"Pooja Mehta","Computer Networks",50.00
+21511,"Om Verma","Computer Networks",50.00
+1368,"Meera Joshi","Data Warehousing",50.00
+3495,"Kunal Nair","Data Warehousing",50.00
+36336,"Diya Ghosh","Data Warehousing",50.00
+20859,"Aditi Thakur","Finite Element Analysis",50.00
+11257,"Yash Ghosh","Finite Element Analysis",50.00
+25520,"Dev Rao","Finite Element Analysis",50.00
+37490,"Sneha Patel","Sensor Networks",50.00
+14231,"Aditya Joshi","Sensor Networks",50.00
+30388,"Kunal Verma","Sensor Networks",50.00
+13244,"Varun Nair","Sensor Networks",50.00
+4959,"Kunal Ghosh","Sensor Networks",50.00
+4601,"Sai Khanna","Sensor Networks",50.00
+16878,"Dev Bansal","Sensor Networks",50.00
+22426,"Ananya Pandey","Sensor Networks",50.00
+35804,"Ananya Verma","Advanced Java",50.00
+18685,"Diya Pandey","Advanced Java",50.00
+26988,"Priya Sharma","Advanced Java",50.00
+37326,"Manav Das","Automobile Engineering",50.00
+20038,"Vivaan Rao","Automobile Engineering",50.00
+25538,"Kunal Gupta","Automobile Engineering",50.00
+26383,"Dev Verma","Automobile Engineering",50.00
+5279,"Rahul Choudhary","Automobile Engineering",50.00
+28057,"Rohan Khanna","Automobile Engineering",50.00
+22771,"Aman Mehta","Human Computer Interaction",50.00
+23136,"Dev Nair","Human Computer Interaction",50.00
+41354,"Rohan Jain","Energy Management",50.00
+2606,"Ananya Sharma","Energy Management",50.00
+38998,"Yash Agarwal","Energy Management",50.00
+17282,"Ritesh Das","RF Engineering",50.00
+39112,"Priya Bansal","RF Engineering",50.00
+21017,"Aditya Choudhary","RF Engineering",50.00
+13053,"Dev Patel","Big Data Analytics",50.00
+30338,"Aarav Das","Big Data Analytics",50.00
+27729,"Manav Choudhary","Big Data Analytics",50.00
+34189,"Aman Sinha","Big Data Analytics",50.00
+41883,"Mohit Menon","Recommendation Systems",50.00
+4209,"Yash Sharma","Recommendation Systems",50.00
+35814,"Ritika Bansal","Recommendation Systems",50.00
+6847,"Rohan Ghosh","Recommendation Systems",50.00
+12722,"Tanmay Rao","Refrigeration and AC",50.00
+19891,"Neha Sharma","Refrigeration and AC",50.00
+33305,"Ritika Choudhary","Refrigeration and AC",50.00
+34137,"Sai Ghosh","Refrigeration and AC",50.00
+1271,"Kavya Mehta","Refrigeration and AC",50.00
+27321,"Dev Menon","Computer Vision",50.00
+4466,"Pooja Verma","Computer Vision",50.00
+20779,"Diya Sinha","Computer Vision",50.00
+1329,"Sneha Reddy","Computer Vision",50.00
+18843,"Rohan Dubey","Computer Vision",50.00
+45338,"Priya Pandey","Computer Vision",50.00
+33279,"Ritesh Joshi","Computer Vision",50.00
+43282,"Kavya Joshi","Welding Technology",50.00
+26210,"Mohit Joshi","Welding Technology",50.00
+5831,"Tanmay Thakur","Welding Technology",50.00
+35656,"Manav Choudhary","Transmission Systems",50.00
+19717,"Priya Pandey","Transmission Systems",50.00
+18899,"Pooja Das","Transmission Systems",50.00
+44607,"Diya Verma","Natural Language Processing",50.00
+41812,"Sai Bansal","Natural Language Processing",50.00
+19263,"Tanmay Verma",Cryptography,50.00
+16710,"Nikhil Sinha",Cryptography,50.00
+7702,"Manav Dubey",Cryptography,50.00
+14292,"Varun Sinha",Cryptography,50.00
+9008,"Priya Reddy","Radar Systems",50.00
+37382,"Ritika Iyer","Radar Systems",50.00
+7367,"Nikhil Patel","Radar Systems",50.00
+7369,"Aman Sharma","Radar Systems",50.00
+49899,"Pooja Rao","Radar Systems",50.00
+32547,"Ishaan Patel","API Development",50.00
+41307,"Kunal Pandey","IT Infrastructure Management",50.00
+1148,"Krishna Rao","IT Infrastructure Management",50.00
+7131,"Ritesh Agarwal","IT Infrastructure Management",50.00
+13564,"Siddharth Bansal","IT Infrastructure Management",50.00
+17822,"Aditi Joshi","Internet of Things",50.00
+21060,"Kavya Menon","Internet of Things",50.00
+48972,"Ritesh Choudhary","Internet of Things",50.00
+25067,"Priya Jain","Internet of Things",50.00
+25892,"Yash Joshi","Internet of Things",50.00
+49291,"Neha Sharma","Internet of Things",50.00
+46067,"Sai Das","Operating Systems",50.00
+10021,"Mohit Pandey","Operating Systems",50.00
+2139,"Kunal Mehta","Operating Systems",50.00
+34596,"Aman Menon","Operating Systems",50.00
+3777,"Manav Agarwal","Operating Systems",50.00
+45126,"Harsh Mehta","Operating Systems",50.00
+27361,"Aditya Reddy","Operating Systems",50.00
+40606,"Deepak Reddy","Operating Systems",50.00
+3135,"Kavya Bansal","Operating Systems",50.00
+49731,"Neha Thakur","IT Auditing",50.00
+14348,"Siddharth Mehta","IT Auditing",50.00
+31990,"Arjun Gupta","IT Auditing",50.00
+7997,"Vivaan Kapoor","IT Auditing",50.00
+30623,"Ishaan Ghosh","IT Auditing",50.00
+24742,"Om Reddy","IT Auditing",50.00
+28342,"Pooja Joshi","Web Technologies",50.00
+2787,"Neha Verma","Web Technologies",50.00
+193,"Rohan Reddy","Web Technologies",50.00
+33680,"Priya Agarwal","Web Technologies",50.00
+19362,"Pooja Rao","Web Technologies",50.00
+13849,"Meera Iyer","Web Technologies",50.00
+47915,"Meera Agarwal","Technology Consulting",50.00
+40752,"Ritesh Jain","Technology Consulting",50.00
+37398,"Rohan Dubey","Mobile Computing",50.00
+11311,"Neha Agarwal","Mobile Computing",50.00
+27653,"Meera Thakur","Mobile Computing",50.00
+25016,"Varun Sharma","Mobile Computing",50.00
+8905,"Ananya Das","Production Planning",50.00
+41719,"Rahul Bansal","Production Planning",50.00
+25028,"Meera Khanna","Production Planning",50.00
+23788,"Pooja Kapoor","Production Planning",50.00
+23196,"Vivaan Reddy","Substation Engineering",50.00
+14682,"Ritesh Rao","Substation Engineering",50.00
+39489,"Meera Patel","Substation Engineering",50.00
+39381,"Aditya Choudhary","Substation Engineering",50.00
+33287,"Om Jain","Substation Engineering",50.00
+11855,"Diya Sharma","Substation Engineering",50.00
+29068,"Aditi Verma","Substation Engineering",50.00
+29101,"Aarav Nair","Automation Engineering",50.00
+49540,"Rohan Choudhary","Automation Engineering",50.00
+1405,"Kunal Das","Automation Engineering",50.00
+42256,"Ritesh Dubey","Automation Engineering",50.00
+46669,"Aditi Dubey","Automation Engineering",50.00
+41023,"Neha Reddy","Automation Engineering",50.00
+17124,"Siddharth Mehta","Satellite Communication",50.00
+49797,"Rohan Choudhary","Satellite Communication",50.00
+38509,"Meera Reddy","Satellite Communication",50.00
+35546,"Vivaan Nair","Satellite Communication",50.00
+48283,"Manav Patel","Data Governance",50.00
+22617,"Siddharth Ghosh","Data Governance",50.00
+42619,"Ritika Patel","Data Governance",50.00
+35385,"Siddharth Dubey","Data Governance",50.00
+36504,"Aman Agarwal","VLSI Design",50.00
+2360,"Manav Khanna","VLSI Design",50.00
+19282,"Aditya Das","VLSI Design",50.00
+25447,"Siddharth Reddy","VLSI Design",50.00
+31117,"Priya Ghosh",Microprocessors,50.00
+41013,"Krishna Joshi",Microprocessors,50.00
+23251,"Tanmay Mehta",Microprocessors,50.00
+33352,"Dev Mehta","Digital Electronics",50.00
+30025,"Rahul Verma","Digital Electronics",50.00
+13856,"Yash Ghosh","Digital Electronics",50.00
+5094,"Ishaan Verma","Digital Electronics",50.00
+44315,"Krishna Sharma","Semiconductor Devices",50.00
+32214,"Sneha Kapoor","Semiconductor Devices",50.00
+39237,"Neha Joshi","Semiconductor Devices",50.00
+28082,"Mohit Verma","Semiconductor Devices",50.00
+45218,"Ishaan Dubey","Semiconductor Devices",50.00
+49871,"Siddharth Verma","Semiconductor Devices",50.00
+9299,"Krishna Reddy","Theory of Computation",50.00
+376,"Priya Das","Theory of Computation",50.00
+30943,"Rahul Jain","Signal Processing",50.00
+11464,"Vivaan Pandey","Signal Processing",50.00
+12791,"Ishaan Sharma","Control Instrumentation",50.00
+24794,"Ishaan Verma","Control Instrumentation",50.00
+11004,"Krishna Iyer","Control Instrumentation",50.00
+680,"Aman Ghosh","Control Instrumentation",50.00
+48527,"Manav Sharma","Control Instrumentation",50.00
+49804,"Siddharth Rao","Dynamics of Machines",50.00
+23905,"Deepak Das","Dynamics of Machines",50.00
+32267,"Rohan Reddy","Dynamics of Machines",50.00
+1801,"Aman Bansal","Dynamics of Machines",50.00
+37367,"Siddharth Sharma","Deep Learning",50.00
+16631,"Ritika Das","Deep Learning",50.00
+7650,"Meera Agarwal","Deep Learning",50.00
+19167,"Aditya Mehta","Compiler Design",50.00
+16540,"Pooja Menon","Compiler Design",50.00
+38128,"Tanmay Kapoor","Compiler Design",50.00
+28571,"Aditi Patel","Microwave Engineering",50.00
+49938,"Yash Thakur","Agile Methodologies",50.00
+18643,"Ritesh Mehta","Agile Methodologies",50.00
+14377,"Yash Joshi","Agile Methodologies",50.00
+10439,"Ananya Mehta","Agile Methodologies",50.00
+10358,"Tanmay Nair","Agile Methodologies",50.00
+30140,"Manav Ghosh","Hydraulics and Pneumatics",50.00
+26978,"Neha Pandey","Hydraulics and Pneumatics",50.00
+33339,"Arjun Bansal","Digital Forensics",50.00
+43792,"Tanmay Dubey","Digital Forensics",50.00
+26819,"Diya Thakur","Digital Forensics",50.00
+6341,"Yash Joshi","Digital Forensics",50.00
+49986,"Diya Ghosh","Machine Design",50.00
+41429,"Ritika Das","Industrial Drives",50.00
+24022,"Sneha Kapoor","Industrial Drives",50.00
+8295,"Arjun Patel","Industrial Drives",50.00
+21884,"Manav Joshi","Industrial Drives",50.00
+42160,"Kavya Khanna","Machine Learning",50.00
+28079,"Ananya Khanna","Machine Learning",50.00
+5622,"Vivaan Patel","Machine Learning",50.00
+44886,"Ishaan Bansal","Digital Signal Processing",50.00
+28564,"Vivaan Verma","Digital Signal Processing",50.00
+19289,"Sneha Das","Digital Signal Processing",50.00
+8464,"Aditi Sinha","Digital Signal Processing",50.00
+31973,"Priya Rao","Digital Signal Processing",50.00
+20087,"Mohit Agarwal","System Integration",50.00
+24352,"Sai Thakur",Thermodynamics,50.00
+12668,"Sai Ghosh",Thermodynamics,50.00
+39927,"Siddharth Iyer",Thermodynamics,50.00
+37532,"Vivaan Sharma",Thermodynamics,50.00
+15539,"Deepak Ghosh","Protection Systems",50.00
+9776,"Diya Gupta","Protection Systems",50.00
+44055,"Aarav Khanna","Protection Systems",50.00
+29630,"Krishna Iyer","Industrial Automation",50.00
+9299,"Krishna Reddy","Biomedical Electronics",50.00
+18213,"Krishna Choudhary","Biomedical Electronics",50.00
+15926,"Aditya Dubey","Biomedical Electronics",50.00
+5263,"Varun Nair","Biomedical Electronics",50.00
+27899,"Kunal Reddy","Biomedical Electronics",50.00
+7713,"Priya Nair","Biomedical Electronics",50.00
+5131,"Sai Iyer","Biomedical Electronics",50.00
+26323,"Aditya Menon","IT Project Management",50.00
+31997,"Aarav Rao","IT Project Management",50.00
+26545,"Dev Choudhary","Digital Transformation",50.00
+10962,"Nikhil Bansal","Digital Transformation",50.00
+31414,"Pooja Ghosh",CAD/CAM,50.00
+2107,"Aarav Sharma",CAD/CAM,50.00
+33443,"Yash Agarwal",CAD/CAM,50.00
+35320,"Kavya Patel",CAD/CAM,50.00
+24108,"Kunal Khanna",CAD/CAM,50.00
+15226,"Harsh Patel",CAD/CAM,50.00
+46154,"Rahul Joshi",CAD/CAM,50.00
+47210,"Manav Nair","Smart Grid Technology",50.00
+46663,"Deepak Choudhary","Smart Grid Technology",50.00
+21226,"Deepak Khanna","Smart Grid Technology",50.00
+13407,"Krishna Jain","Smart Grid Technology",50.00
+31640,"Nikhil Gupta","Smart Grid Technology",50.00
+22407,"Sneha Das","Blockchain Technology",50.00
+42153,"Aditi Iyer","Blockchain Technology",50.00
+41283,"Arjun Patel","Blockchain Technology",50.00
+32904,"Nikhil Sharma","High Voltage Engineering",50.00
+21030,"Kunal Joshi","High Voltage Engineering",50.00
+13849,"Meera Iyer",Robotics,50.00
+38544,"Aditi Das",Robotics,50.00
+19755,"Nikhil Rao",Robotics,50.00
+28650,"Arjun Iyer",Robotics,50.00
+31421,"Yash Choudhary",Robotics,50.00
+7062,"Mohit Agarwal",Robotics,50.00
+41938,"Siddharth Sharma",Robotics,50.00
+29555,"Rahul Thakur",Robotics,50.00
+29522,"Arjun Sharma","Software Testing",50.00
+25970,"Kavya Sharma","Software Testing",50.00
+35814,"Ritika Bansal","Software Testing",50.00
+6673,"Aarav Iyer","Software Testing",50.00
+10197,"Kunal Gupta","Software Testing",50.00
+30116,"Nikhil Verma","Software Testing",50.00
+48904,"Sneha Rao","Software Testing",50.00
+7647,"Arjun Bansal","Software Testing",50.00
+10328,"Manav Pandey","Electric Vehicles",50.00
+41180,"Aditi Sinha","Electric Vehicles",50.00
+3911,"Ritika Reddy","Electric Vehicles",50.00
+3506,"Kunal Nair","Electric Vehicles",50.00
+16436,"Rahul Khanna","Mechanical Vibrations",50.00
+34511,"Harsh Reddy","Mechanical Vibrations",50.00
+25185,"Harsh Patel","Optical Communication",50.00
+35396,"Mohit Mehta","Optical Communication",50.00
+22232,"Priya Mehta","Optical Communication",50.00
+21589,"Om Dubey","Optical Communication",50.00
+44614,"Sai Pandey","Optical Communication",50.00
+28973,"Diya Khanna","Optical Communication",50.00
+31521,"Mohit Das","Cloud Architecture",50.00
+40168,"Tanmay Agarwal","Electrical Design",50.00
+37460,"Yash Iyer","Electrical Design",50.00
+39002,"Rahul Das","Electrical Design",50.00
+43767,"Pooja Khanna","Electrical Design",50.00
+33014,"Manav Rao","Enterprise Systems",50.00
+30609,"Varun Kapoor","Enterprise Systems",50.00
+21766,"Meera Patel","Enterprise Systems",50.00
+2789,"Krishna Iyer","Enterprise Systems",50.00
+18981,"Yash Khanna","Enterprise Systems",50.00
+8123,"Om Das","Python Programming",50.00
+17434,"Rohan Kapoor","Python Programming",50.00
+2927,"Ritika Dubey","Python Programming",50.00
+36333,"Nikhil Nair","Python Programming",50.00
+36974,"Kunal Jain","Python Programming",50.00
+14190,"Siddharth Rao","Python Programming",50.00
+15083,"Rohan Khanna","Python Programming",50.00
+27899,"Kunal Reddy","Fluid Mechanics",50.00
+22482,"Deepak Bansal","Fluid Mechanics",50.00
+49421,"Vivaan Ghosh","Fluid Mechanics",50.00
+6248,"Neha Agarwal","Fluid Mechanics",50.00
+19798,"Rahul Kapoor","Fluid Mechanics",50.00
+5022,"Varun Kapoor","Fluid Mechanics",50.00
+46785,"Siddharth Choudhary","Artificial Intelligence",50.00
+22119,"Pooja Agarwal","Artificial Intelligence",50.00
+39320,"Arjun Agarwal","Artificial Intelligence",50.00
+41186,"Kavya Agarwal","Artificial Intelligence",50.00
+15239,"Ananya Thakur","Artificial Intelligence",50.00
+19987,"Neha Kapoor","Artificial Intelligence",50.00
+45930,"Krishna Iyer","Artificial Intelligence",50.00
+28813,"Rahul Verma","Artificial Intelligence",50.00
+962,"Manav Verma","Wireless Networks",50.00
+20305,"Meera Menon","Wireless Networks",50.00
+2784,"Aarav Patel","Wireless Networks",50.00
+4361,"Manav Gupta","Wireless Networks",50.00
+24099,"Rohan Reddy","Data Structures",50.00
+24662,"Deepak Choudhary","Data Structures",50.00
+3402,"Harsh Khanna","Data Structures",50.00
+23453,"Dev Gupta","Data Structures",50.00
+15239,"Ananya Thakur","Composite Materials",50.00
+5327,"Varun Das","Composite Materials",50.00
+24434,"Arjun Choudhary","Composite Materials",50.00
+2693,"Yash Sharma","Composite Materials",50.00
+4885,"Rahul Kapoor","Composite Materials",50.00
+19714,"Aman Nair","Composite Materials",50.00
+22698,"Nikhil Jain","Game Development",50.00
+10625,"Aman Khanna","Game Development",50.00
+27432,"Krishna Rao","Game Development",50.00
+9998,"Kunal Choudhary","Game Development",50.00
+34139,"Kunal Das","Quantum Computing",50.00
+7298,"Ananya Verma","Quantum Computing",50.00
+20823,"Vivaan Sharma","Quantum Computing",50.00
+47568,"Mohit Dubey","Renewable Energy Systems",50.00
+10900,"Krishna Agarwal","Renewable Energy Systems",50.00
+10398,"Aditi Reddy","Renewable Energy Systems",50.00
+13354,"Ananya Joshi","Renewable Energy Systems",50.00
+39428,"Sai Agarwal","Renewable Energy Systems",50.00
+49625,"Sai Verma","Data Mining",50.00
+27988,"Varun Verma","Data Mining",50.00
+7409,"Tanmay Gupta","Information Security",50.00
+41970,"Varun Menon","Information Security",50.00
+22650,"Ritesh Iyer","Information Security",50.00
+34055,"Tanmay Sharma","Information Security",50.00
+36409,"Om Khanna","Information Security",50.00
+1218,"Diya Nair","Information Security",50.00
+32960,"Vivaan Jain","Industrial Engineering",66.67
+45691,"Vivaan Khanna","Software Architecture",66.67
+39292,"Diya Bansal","Software Engineering",66.67
+14671,"Sai Menon",DevOps,66.67
+10470,"Tanmay Ghosh","Heat Transfer",66.67
+4781,"Manav Khanna","Tool Engineering",66.67
+21125,"Sneha Verma","Embedded Systems",66.67
+5786,"Deepak Mehta","Data Warehousing",66.67
+45538,"Varun Choudhary","Finite Element Analysis",66.67
+28844,"Varun Iyer","Advanced Java",66.67
+40384,"Arjun Joshi","Advanced Java",66.67
+9361,"Meera Bansal","Energy Management",66.67
+34899,"Aman Nair","Big Data Analytics",66.67
+28043,"Krishna Jain","Big Data Analytics",66.67
+3505,"Kavya Sharma","Refrigeration and AC",66.67
+22165,"Tanmay Pandey","Computer Vision",66.67
+29827,"Mohit Das","Natural Language Processing",66.67
+47506,"Yash Choudhary","IT Infrastructure Management",66.67
+24391,"Yash Sinha","IT Infrastructure Management",66.67
+9666,"Pooja Iyer","Internet of Things",66.67
+39129,"Dev Verma","Satellite Communication",66.67
+41739,"Aman Das",Microprocessors,66.67
+23411,"Aman Gupta","Signal Processing",66.67
+24826,"Rohan Sharma","Signal Processing",66.67
+5772,"Meera Ghosh","Deep Learning",66.67
+24684,"Nikhil Menon","Deep Learning",66.67
+43034,"Arjun Kapoor","Compiler Design",66.67
+45928,"Ritesh Mehta",CAD/CAM,66.67
+14829,"Rohan Reddy","High Voltage Engineering",66.67
+23909,"Meera Nair","Software Testing",66.67
+10435,"Meera Verma","Enterprise Systems",66.67
+9117,"Tanmay Pandey","Python Programming",66.67
+34826,"Harsh Pandey","Fluid Mechanics",66.67
+1390,"Ritesh Sinha","Data Structures",66.67
+45432,"Ananya Ghosh","Quantum Computing",66.67
