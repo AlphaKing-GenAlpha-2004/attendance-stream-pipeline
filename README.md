@@ -1,4 +1,4 @@
-# 📊 Attendance Streaming Data Pipeline & Analytics System
+# 📊 Attendance Tracking System
 
 ## 👤 Student Details
 - **Name:** Abhinav Singh  
@@ -8,28 +8,28 @@
 ---
 
 ## 📌 Project Overview
-This project implements a **real-time attendance tracking and analytics system** using modern data engineering tools. It simulates streaming attendance data, processes it using distributed systems, and provides analytical insights through SQL and dashboards.
+The Attendance Tracking System is a modern, data-driven solution designed to automate and analyze student attendance efficiently. It leverages real-time data streaming, distributed processing, and SQL analytics to provide accurate and scalable attendance management.
 
 ---
 
 ## 🎯 Problem Statement
-Traditional attendance systems are:
-- Manual and error-prone  
-- Not scalable  
-- Lack real-time insights  
+Traditional attendance systems face several challenges:
+- Manual entry errors  
+- Lack of real-time tracking  
+- Limited scalability  
+- Poor analytical capabilities  
 
-This project solves these issues by building a **streaming-based automated attendance system** with analytics.
+This project aims to build a **scalable and automated attendance tracking system** with real-time processing and analytics.
 
 ---
 
 ## 💡 Solution
 The system:
-- Streams attendance data using **Kafka**
-- Processes data using **Spark Streaming**
-- Orchestrates workflows using **Apache Airflow**
-- Stores structured data for analysis
-- Uses **SQL (Basic → Advanced)** for insights
-- Visualizes results via dashboards
+- Streams attendance data in real-time  
+- Processes data using distributed computing  
+- Automates workflows  
+- Performs multi-level SQL analysis  
+- Visualizes insights via dashboard  
 
 ---
 
@@ -45,15 +45,15 @@ Airflow DAG (Automation)
 
 ## 🛠️ Tech Stack
 
-| Category | Tools Used |
-|--------|-----------|
+| Category | Tools |
+|--------|------|
 | Language | Python |
 | Streaming | Apache Kafka |
 | Processing | Apache Spark |
 | Orchestration | Apache Airflow |
-| Database | MySQL |
-| Visualization | Matplotlib / Jupyter |
-| Version Control | Git & GitHub |
+| Database | SQL |
+| Visualization | Matplotlib, Jupyter |
+| Version Control | Git, GitHub |
 
 ---
 
@@ -62,129 +62,123 @@ Airflow DAG (Automation)
 
 attendance_project/
 │
-├── airflow_dags/ # Airflow DAGs for pipeline orchestration
-├── scripts/ # Kafka Producer & Spark Streaming scripts
+├── airflow_dags/ # Airflow DAGs
+├── scripts/ # Kafka & Spark scripts
 ├── data/
-│ ├── raw/ # Raw CSV data
-│ └── processed/ # Cleaned datasets
-├── sql/ # SQL queries (Basic, Intermediate, Advanced)
-├── dashboard/ # Jupyter Notebook for visualization
+│ ├── raw/ # Raw data
+│ └── processed/ # Processed data
+├── sql/ # SQL queries
+├── dashboard/ # Visualization notebook
 ├── Screenshots/ # Output images
 └── README.md
 
-
 ---
 
-## 🔄 Workflow Explanation
+## 🔄 Workflow
 
 1. **Data Ingestion**
-   - CSV attendance data is streamed using Kafka Producer
+   - CSV data streamed using Kafka Producer  
 
-2. **Streaming Layer**
-   - Kafka handles real-time data flow
+2. **Streaming**
+   - Kafka manages real-time data flow  
 
-3. **Processing Layer**
-   - Spark Streaming processes incoming data
+3. **Processing**
+   - Spark Streaming processes incoming data  
 
-4. **Orchestration**
-   - Airflow automates pipeline execution
+4. **Automation**
+   - Airflow DAG controls pipeline execution  
 
 5. **Storage**
-   - Cleaned data stored for querying
+   - Processed data stored for analysis  
 
 6. **Analytics**
-   - SQL queries generate insights:
-     - Attendance %
-     - Top students
-     - Defaulters
-     - Course-wise performance
+   - SQL queries generate insights  
 
 7. **Visualization**
-   - Dashboard shows insights using graphs
+   - Dashboard presents trends and KPIs  
 
 ---
 
 ## 🧠 SQL Analysis
 
-### ✔ Basic Queries
-- SELECT, WHERE, JOIN  
-- Student attendance records  
+### Basic
+- Data retrieval and filtering  
 
-### ✔ Intermediate Queries
-- GROUP BY, HAVING  
-- Course-wise attendance analysis  
+### Intermediate
+- Aggregation and grouping  
 
-### ✔ Advanced Queries
-- Window Functions (RANK)  
-- Top students by attendance  
-- Performance ranking  
+### Advanced
+- Window functions (RANK)  
+- Attendance percentage  
+- Defaulter detection  
 
 ---
 
 ## 🗂️ ER Diagram
 
-The system includes the following entities:
+Entities:
+- Students  
+- Courses  
+- Faculty  
+- Attendance  
+- Student_Course_Map  
 
-- **Students**
-- **Courses**
-- **Faculty**
-- **Attendance**
-- **Student_Course_Map**
-
-### Key Relationships:
-- Students enroll in Courses (M:N)
-- Faculty teaches Courses (1:N)
-- Attendance linked to Student & Course
-
----
-
-## 📸 Output Screenshots
-Screenshots of:
-- SQL query outputs  
-- Dashboard visualizations  
-are included in the `/Screenshots` folder.
+Relationships:
+- Students ↔ Courses (M:N)  
+- Faculty → Courses (1:N)  
+- Attendance linked to Student & Course  
 
 ---
 
-## ⭐ Unique Features
-- Real-time streaming using Kafka  
-- Automated pipeline via Airflow  
-- Scalable Spark processing  
+## 📊 Dashboard Features
+
+- Top students by attendance  
+- Defaulters analysis (<75%)  
+- Course-wise performance  
+- Daily attendance trends  
+- KPI summary  
+
+---
+
+## ⭐ Key Features
+
+- Real-time streaming pipeline  
+- Automated workflow using Airflow  
+- Scalable data processing  
 - Multi-level SQL analytics  
-- End-to-end data engineering workflow  
+- Visual insights  
 
 ---
 
-## 🚀 Future Improvements
-- Real-time dashboard (Power BI / Streamlit)  
+## 🚀 Future Enhancements
+
+- Real-time dashboard (Streamlit / Power BI)  
 - Cloud deployment (AWS / Azure)  
-- Machine learning for attendance prediction  
-- Mobile app integration  
+- Machine learning for prediction  
+- Web/mobile interface  
 
 ---
 
 ## ▶️ How to Run
 
-1. Start Zookeeper & Kafka  
+1. Start Kafka & Zookeeper  
 2. Run Airflow Scheduler & Webserver  
 3. Trigger DAG  
 4. Run Kafka Producer  
-5. Execute Spark Streaming job  
-6. Run SQL queries / dashboard  
+5. Run Spark Streaming  
+6. Execute SQL queries / Dashboard  
 
 ---
 
 ## 📎 GitHub Repository
-👉 [Project Repository Link](https://github.com/AlphaKing-GenAlpha-2004/attendance-stream-pipeline)
+👉 https://github.com/AlphaKing-GenAlpha-2004/attendance-stream-pipeline
 
 ---
 
 ## ⚠️ Disclaimer
-This project is developed as an **individual academic submission**. All implementations are original and based on course learning.
+This is an individual academic project developed based on course learning.
 
 ---
 
 ## 🙌 Acknowledgement
-Guidance and concepts are based on training sessions and academic curriculum.
-
----
+Guidance based on academic curriculum and training sessions.
