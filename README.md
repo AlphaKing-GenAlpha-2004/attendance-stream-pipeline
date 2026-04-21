@@ -59,19 +59,20 @@ Airflow DAG (Automation)
 
 ## 📂 Project Structure
 
-
-attendance_project/
-│
-├── airflow_dags/ # Airflow DAGs
-├── scripts/ # Kafka & Spark scripts
-├── data/
-│ ├── raw/ # Raw data
-│ └── processed/ # Processed data
-├── sql/ # SQL queries
-├── dashboard/ # Visualization notebook
-├── Screenshots/ # Output images
-└── README.md
-
+- **attendance_project/**
+  - **airflow_dags/** → Airflow DAGs for pipeline orchestration  
+  - **scripts/** → Kafka Producer & Spark Streaming scripts  
+  - **data/**
+    - **raw/** → Raw input CSV files  
+    - **processed/** → Cleaned & processed datasets  
+  - **sql/**
+    - Basic SQL Queries.sql  
+    - Intermediate SQL Queries.sql  
+    - Advanced SQL Queries.sql  
+    - ETL Pipeline Verification.sql  
+  - **dashboard/** → Jupyter Notebook for visualization  
+  - **Screenshots/** → Output images (SQL + Dashboard)  
+  - **README.md** → Project documentation 
 ---
 
 ## 🔄 Workflow
